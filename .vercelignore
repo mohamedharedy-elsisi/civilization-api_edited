@@ -1,14 +1,12 @@
-# AI inference is deployed separately.
+# The API root app.py does not import the AI blueprint or model service.
 ai_service/
 routes/predict.py
 services/
 uploads/
 weights/
-
-# Exclude the stale nested application copy. The Vercel root is this folder.
+# The nested application is an older duplicate with fewer endpoints.
 civilization_api/
-
-# Exclude training assets and generated files if added to this repository.
+# Keep training artifacts and generated files out of the deployment upload.
 datasets/
 dataset/
 runs/
@@ -19,6 +17,5 @@ train/
 **/*.engine
 **/__pycache__/
 **/*.pyc
-
 .git/
 .vscode/
