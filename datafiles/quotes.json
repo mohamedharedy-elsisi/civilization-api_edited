@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "quote": "Do not be arrogant because of your knowledge.",
+    "author": "Ptahhotep",
+    "arabic_author": "بتاح حتب"
+  },
+  {
+    "id": 2,
+    "quote": "Good speech is more hidden than greenstone, yet it may be found among servant girls at the grindstones.",
+    "author": "Ptahhotep",
+    "arabic_author": "بتاح حتب"
+  },
+  {
+    "id": 3,
+    "quote": "If you are powerful, gain respect through knowledge and gentleness of speech.",
+    "author": "Ptahhotep",
+    "arabic_author": "بتاح حتب"
+  },
+  {
+    "id": 4,
+    "quote": "Do not repeat extravagant speech, neither listen to it.",
+    "author": "Ptahhotep",
+    "arabic_author": "بتاح حتب"
+  },
+  {
+    "id": 5,
+    "quote": "Follow your heart as long as you live.",
+    "author": "Ptahhotep",
+    "arabic_author": "بتاح حتب"
+  },
+  {
+    "id": 6,
+    "quote": "The obedient person is one whom the gods love.",
+    "author": "Ptahhotep",
+    "arabic_author": "بتاح حتب"
+  },
+  {
+    "id": 7,
+    "quote": "Do not be proud because you are learned.",
+    "author": "Ptahhotep",
+    "arabic_author": "بتاح حتب"
+  },
+  {
+    "id": 8,
+    "quote": "Listening is better than speaking.",
+    "author": "Ptahhotep",
+    "arabic_author": "بتاح حتب"
+  },
+  {
+    "id": 9,
+    "quote": "One plans, but God directs.",
+    "author": "Amenemope",
+    "arabic_author": "أمنمؤبت"
+  },
+  {
+    "id": 10,
+    "quote": "Better is poverty in the hand of God than wealth in the storehouse.",
+    "author": "Amenemope",
+    "arabic_author": "أمنمؤبت"
+  },
+  {
+    "id": 11,
+    "quote": "Do not set your heart on wealth.",
+    "author": "Amenemope",
+    "arabic_author": "أمنمؤبت"
+  },
+  {
+    "id": 12,
+    "quote": "The tongue of a man is the rudder of a boat.",
+    "author": "Amenemope",
+    "arabic_author": "أمنمؤبت"
+  },
+  {
+    "id": 13,
+    "quote": "Better is bread with a happy heart than wealth with vexation.",
+    "author": "Amenemope",
+    "arabic_author": "أمنمؤبت"
+  },
+  {
+    "id": 14,
+    "quote": "Do not laugh at a blind man.",
+    "author": "Amenemope",
+    "arabic_author": "أمنمؤبت"
+  },
+  {
+    "id": 15,
+    "quote": "Do not remove the landmark from the borders of the fields.",
+    "author": "Amenemope",
+    "arabic_author": "أمنمؤبت"
+  },
+  {
+    "id": 16,
+    "quote": "A good character is more valuable than riches.",
+    "author": "Ancient Egyptian Wisdom",
+    "arabic_author": "حكمة مصرية قديمة"
+  },
+  {
+    "id": 17,
+    "quote": "Truth is the foundation of life.",
+    "author": "Ancient Egyptian Wisdom",
+    "arabic_author": "حكمة مصرية قديمة"
+  },
+  {
+    "id": 18,
+    "quote": "Justice brings prosperity.",
+    "author": "Ancient Egyptian Wisdom",
+    "arabic_author": "حكمة مصرية قديمة"
+  },
+  {
+    "id": 19,
+    "quote": "Knowledge is a treasure that follows its owner everywhere.",
+    "author": "Ancient Egyptian Wisdom",
+    "arabic_author": "حكمة مصرية قديمة"
+  },
+  {
+    "id": 20,
+    "quote": "A peaceful heart is worth more than gold.",
+    "author": "Ancient Egyptian Wisdom",
+    "arabic_author": "حكمة مصرية قديمة"
+  },
+  {
+  "id": 21,
+  "quote": "He who obeys his heart will not fail.",
+  "author": "Ptahhotep",
+  "arabic_author": "بتاح حتب"
+},
+{
+  "id": 22,
+  "quote": "Silence is more profitable than abundance of speech.",
+  "author": "Ptahhotep",
+  "arabic_author": "بتاح حتب"
+},
+{
+  "id": 23,
+  "quote": "The wise man listens before he speaks.",
+  "author": "Ptahhotep",
+  "arabic_author": "بتاح حتب"
+},
+{
+  "id": 24,
+  "quote": "Respect is earned through character.",
+  "author": "Ptahhotep",
+  "arabic_author": "بتاح حتب"
+},
+{
+  "id": 25,
+  "quote": "Do not answer a hot-headed man with anger.",
+  "author": "Ptahhotep",
+  "arabic_author": "بتاح حتب"
+},
+{
+  "id": 26,
+  "quote": "A calm tongue is the companion of wisdom.",
+  "author": "Amenemope",
+  "arabic_author": "أمنمؤبت"
+},
+{
+  "id": 27,
+  "quote": "Better is honesty than temporary gain.",
+  "author": "Amenemope",
+  "arabic_author": "أمنمؤبت"
+},
+{
+  "id": 28,
+  "quote": "Do not exploit the weak.",
+  "author": "Amenemope",
+  "arabic_author": "أمنمؤبت"
+},
+{
+  "id": 29,
+  "quote": "The patient man reaches his goal.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 30,
+  "quote": "A truthful tongue never fears judgment.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 31,
+  "quote": "Great deeds begin with small steps.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 32,
+  "quote": "Wisdom increases when shared.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 33,
+  "quote": "The heart guides the path of a person.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 34,
+  "quote": "Patience overcomes difficulties.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 35,
+  "quote": "Honor is more precious than gold.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 36,
+  "quote": "A kind word opens closed doors.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 37,
+  "quote": "The just person leaves a lasting legacy.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 38,
+  "quote": "Knowledge shines brighter than jewels.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 39,
+  "quote": "Good conduct is remembered forever.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 40,
+  "quote": "Humility is the mark of true greatness.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 41,
+  "quote": "The wise learn from every experience.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 42,
+  "quote": "Justice is stronger than force.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 43,
+  "quote": "The future belongs to those who prepare.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 44,
+  "quote": "Speak only when your words improve silence.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 45,
+  "quote": "Integrity is wealth that cannot be stolen.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 46,
+  "quote": "Every day is an opportunity to learn.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 47,
+  "quote": "The strongest foundation is truth.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 48,
+  "quote": "A noble heart brings peace.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 49,
+  "quote": "Respect others and you will be respected.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+},
+{
+  "id": 50,
+  "quote": "Goodness remains after wealth disappears.",
+  "author": "Ancient Egyptian Wisdom",
+  "arabic_author": "حكمة مصرية قديمة"
+}
+]

@@ -1,0 +1,10 @@
+venv
+.venv
+__pycache__
+.git
+.idea
+*.pyc
+weights
+uploads
+ai_service
+civilization_api

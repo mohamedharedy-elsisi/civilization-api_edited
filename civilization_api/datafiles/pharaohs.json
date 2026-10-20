@@ -1,0 +1,143 @@
+[
+    {
+        "id":  1,
+        "name":  "Narmer",
+        "arabic_name":  "نعرمر",
+        "dynasty":  "1st Dynasty",
+        "reign":  "c. 3150 BC",
+        "capital":  "Memphis",
+        "description":  "Founder of the First Dynasty and traditionally credited with unifying Upper and Lower Egypt.",
+        "achievements":  [
+                             "Unified Upper and Lower Egypt",
+                             "Established the First Dynasty"
+                         ],
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Narmer_Palette.jpg/960px-Narmer_Palette.jpg"
+    },
+    {
+        "id":  2,
+        "name":  "Djoser",
+        "arabic_name":  "زوسر",
+        "dynasty":  "3rd Dynasty",
+        "reign":  "c. 2670–2650 BC",
+        "capital":  "Memphis",
+        "description":  "Known for commissioning the Step Pyramid at Saqqara.",
+        "achievements":  [
+                             "Built the Step Pyramid",
+                             "Advanced monumental architecture"
+                         ],
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Djoser_cropped.jpg/960px-Djoser_cropped.jpg"
+    },
+    {
+        "id":  3,
+        "name":  "Khufu",
+        "arabic_name":  "خوفو",
+        "dynasty":  "4th Dynasty",
+        "reign":  "c. 2589–2566 BC",
+        "capital":  "Memphis",
+        "description":  "Builder of the Great Pyramid of Giza.",
+        "achievements":  [
+                             "Constructed the Great Pyramid",
+                             "Expanded royal building projects"
+                         ],
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Statue_of_Khufu_in_the_Cairo_Egyptian_Museum.jpg/960px-Statue_of_Khufu_in_the_Cairo_Egyptian_Museum.jpg"
+    },
+    {
+        "id":  4,
+        "name":  "Khafre",
+        "arabic_name":  "خفرع",
+        "dynasty":  "4th Dynasty",
+        "reign":  "c. 2558–2532 BC",
+        "capital":  "Memphis",
+        "description":  "Builder of the second pyramid at Giza.",
+        "achievements":  [
+                             "Built Khafre Pyramid",
+                             "Associated with the Great Sphinx"
+                         ],
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/d/d5/Khafre_statue.jpg"
+    },
+    {
+        "id":  5,
+        "name":  "Menkaure",
+        "arabic_name":  "منقرع",
+        "dynasty":  "4th Dynasty",
+        "reign":  "c. 2532–2503 BC",
+        "capital":  "Memphis",
+        "description":  "Builder of the third pyramid at Giza.",
+        "achievements":  [
+                             "Built Menkaure Pyramid",
+                             "Promoted artistic development"
+                         ],
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/f/fb/Menkaura_Bust_Closeup.jpg"
+    },
+    {
+        "id":  6,
+        "name":  "Hatshepsut",
+        "arabic_name":  "حتشبسوت",
+        "dynasty":  "18th Dynasty",
+        "reign":  "1479–1458 BC",
+        "capital":  "Thebes",
+        "description":  "One of the most successful female pharaohs in Egyptian history.",
+        "achievements":  [
+                             "Expanded trade networks",
+                             "Built Deir el-Bahari Temple"
+                         ],
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Seated_Statue_of_Hatshepsut_MET_Hatshepsut2012.jpg/960px-Seated_Statue_of_Hatshepsut_MET_Hatshepsut2012.jpg"
+    },
+    {
+        "id":  7,
+        "name":  "Thutmose III",
+        "arabic_name":  "تحتمس الثالث",
+        "dynasty":  "18th Dynasty",
+        "reign":  "1479–1425 BC",
+        "capital":  "Thebes",
+        "description":  "Often called the Napoleon of Ancient Egypt.",
+        "achievements":  [
+                             "Expanded the Egyptian Empire",
+                             "Won numerous military campaigns"
+                         ],
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Thutmosis_III-2_%28cropped%29.jpg/960px-Thutmosis_III-2_%28cropped%29.jpg"
+    },
+    {
+        "id":  8,
+        "name":  "Akhenaten",
+        "arabic_name":  "أخناتون",
+        "dynasty":  "18th Dynasty",
+        "reign":  "1353–1336 BC",
+        "capital":  "Akhetaten",
+        "description":  "Known for introducing the worship of Aten.",
+        "achievements":  [
+                             "Religious reforms",
+                             "Founded Akhetaten"
+                         ],
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/GD-EG-Caire-Mus%C3%A9e061.JPG/960px-GD-EG-Caire-Mus%C3%A9e061.JPG"
+    },
+    {
+        "id":  9,
+        "name":  "Tutankhamun",
+        "arabic_name":  "توت عنخ آمون",
+        "dynasty":  "18th Dynasty",
+        "reign":  "1332–1323 BC",
+        "capital":  "Thebes",
+        "description":  "The most famous pharaoh due to the discovery of his nearly intact tomb.",
+        "achievements":  [
+                             "Restored traditional religion",
+                             "Left the most famous royal tomb"
+                         ],
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CairoEgMuseumTaaMaskMostlyPhotographed.jpg/960px-CairoEgMuseumTaaMaskMostlyPhotographed.jpg"
+    },
+    {
+        "id":  10,
+        "name":  "Ramesses II",
+        "arabic_name":  "رمسيس الثاني",
+        "dynasty":  "19th Dynasty",
+        "reign":  "1279–1213 BC",
+        "capital":  "Pi-Ramesses",
+        "description":  "One of the greatest and most powerful pharaohs of Ancient Egypt.",
+        "achievements":  [
+                             "Built Abu Simbel",
+                             "Signed the earliest known peace treaty",
+                             "Led the Battle of Kadesh"
+                         ],
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ramses_II_British_Museum.jpg/960px-Ramses_II_British_Museum.jpg"
+    }
+]

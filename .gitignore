@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+.vscode/
+
+database.db
+.env
+.venv/
+weights/*.pt
+uploads/

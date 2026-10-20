@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "name": "Narmer",
+    "arabic_name": "نعرمر",
+    "dynasty": "1st Dynasty",
+    "reign": "c. 3150 BC",
+    "capital": "Memphis",
+    "description": "Narmer was one of the earliest and most influential pharaohs of ancient Egypt. He is traditionally credited with uniting Upper and Lower Egypt around 3100 BC, marking the beginning of the First Dynasty and the Early Dynastic Period. Narmer is often identified with the legendary king Menes, who was believed by later Egyptians to be the founder of the unified Egyptian state.Narmer's reign marked the transition from prehistoric Egypt to a unified kingdom with a centralized government. Under his rule, political administration, religious traditions, writing, and royal iconography began to develop into the forms that would characterize ancient Egyptian civilization for millennia.Narmer's unification of Egypt laid the foundation for one of the greatest civilizations in history. His achievements enabled the development of a powerful kingdom that would build the pyramids, create monumental temples, and leave behind an enduring cultural and historical legacy that continues to inspire the world today.",
+    "achievements": [
+      "Unified Upper and Lower Egypt",
+      "Established the First Dynasty"
+    ],
+    "images": ["https://images.openai.com/static-rsc-4/1McqgFB6jTgW7QDikQkPtZj_sj4N0GSyOQPXwrKAzKM7M1OxWfIGuMREZ0eibA6RHsTybFF_g8jlUEA2V1UInwRRXo4h-FEdmPYRxAeSGuZDApWbQsGbvDp2fPF5mCN8QajeX633VOp2egZSB1MMh64I084GKdbYT_btdwZo45liJkJEc0VNxZKun3Rffp4f?purpose=fullsize",
+  "https://images.openai.com/static-rsc-4/cpAKDT5deBq9vSm4OX2oK_XSIJ7cb7gDPUHNBuTZGifmun2xWaQo04sGEmkvVhJI0SM59JyKVKjHtAMGvT3-BwzlWki9Gws5pdOVb3pDE4m1KdGjPh4RZ0UyT6e0qWJY04mlCo7vUiggFHL9j_vQO2_gOuR0lvaQGOuXTWYaIWrWOXeqPIvCCfYJeC4dD8x6?purpose=fullsize",
+  "https://images.openai.com/static-rsc-4/KJ26pF3DPXgMpysBCm-QpqakyyeLClSRED1G6ulW14DquGIXVEo_6k-Rxwem90wcgPBaVUK_QQJOaiI10bBCLhqUEXOiFosyK6QD-Co1WOXNxNIdVV-_erkGXKWvLlTZlMSwp9QkKdebunJIF3Jm0rntGRqNM7_i1hxdG_k7rile2TYAf2AlSQc_qB9b9kKU?purpose=fullsize"]
+  },
+  {
+    "id": 2,
+    "name": "Djoser",
+    "arabic_name": "زوسر",
+    "dynasty": "3rd Dynasty",
+    "reign": "c. 2670–2650 BC",
+    "capital": "Memphis",
+    "description": "Known for commissioning the Step Pyramid at Saqqara.Djoser was an ancient Egyptian pharaoh of the Third Dynasty during the Old Kingdom, reigning around 2670–2650 BC. He is best known for commissioning the Step Pyramid of Saqqara, the first monumental stone building in history. His reign marked a turning point in Egyptian architecture and engineering.Step Pyramid of Saqqara Designed by the renowned architect Imhotep, the Step Pyramid was originally built as a traditional mastaba and then expanded into a six-tiered pyramid. Standing about 62 meters (203 feet) high, it is considered the earliest colossal stone structure ever constructed. Historical ImportanceDjoser's reign marked the beginning of Egypt's era of monumental stone architecture. His pyramid complex included temples, courtyards, ceremonial buildings, and underground galleries, setting the standard for later royal funerary complexes.Djoser's achievements transformed ancient Egyptian architecture forever. By introducing monumental stone construction, he initiated a tradition that culminated in the construction of the Great Pyramids of Giza. His reign remains one of the most significant milestones in the history of ancient Egypt and world architecture.",
+    "achievements": [
+      "Built the Step Pyramid",
+      "Advanced monumental architecture"
+    ],
+    "images": ["https://images.openai.com/static-rsc-4/C_D5oYm_QPUIjPDf28mB0y0A4RT0uSkKBslAj3dqc7aOy5uNdEkL_IAHda7L9-ZNGe8a9L7yG-OYNsjI52fojYQrvoxgguz73QMtrV5fRP4YUouGixE8NiMBdjurD8T5Yi2XT4oiWdtw2bfnsqjNglgmVVhPZQf6hAgjnbfw88XYr0dibr8uuI4hD2pdGt5s?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/la4U_X8igkXGqts1psyWO4Mm-bKkMDXnEmQeejj9ZTgFdDczYuHLdhB8t7qMhnzYFd1Hc1ZZExjocfoXMGNXdAmkfLLrwNcnZJ4SfFdfkRaEaK_x3w9BWQ409YbJjVipM6sfHouTiRSM7ae6NIkx3n-c8Y5AkN12KWDPChklXEiQMvCntGyaDqsQL-hWSsPU?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/cQEYd-Lp2ueEVJGkOQQgK1y_LxjzRjaC3mkGLT3igQtSdaugTNiknFvfLIfOlnLWeuACpOBCkPF76R6YiDgX38eWZodetaTwTKvjPPyEPB36Pi3JlpDor9OPBNCkBnGOUuotHqr4G5ungkQplxMMU0f0bc27gDrmDrmzbEPjYew_sjXJp_Jp5hRA7Lz7AtS-?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/tCfrsenTN23jz9H0J6W5gLK_XNPvQ8_xk2EhWoJKi2T5fZj1cyru6iyhed9w-eT8ts32XmU1Nm9uUA-ilDuq_zh6pM3yKwylWq1WChmPEC0LZqSUy5dOSAlBEYWruiNCpOaKJMQLZXo-GbuS-AJdB-6U09gnDvSVCuJg3xvzTiPS8EHNPE3nPxsmd69X5hLq?purpose=fullsize"]
+  },
+  {
+    "id": 3,
+    "name": "Khufu",
+    "arabic_name": "خوفو",
+    "dynasty": "4th Dynasty",
+    "reign": "c. 2589–2566 BC",
+    "capital": "Memphis",
+    "description": "Khufu (also known by the Greek name Cheops) was the second pharaoh of the Fourth Dynasty during Egypt's Old Kingdom. He ruled around 2589–2566 BC and is best known for commissioning the Great Pyramid of Giza, the largest pyramid ever built and the only surviving Wonder of the Ancient World.Great Pyramid of Giza The Great Pyramid was constructed as Khufu's royal tomb around 2580–2560 BC. It originally stood 146.6 meters (481 feet) tall and was built using approximately 2.3 million limestone and granite blocks. It remained the tallest man-made structure in the world for nearly 3,800 years.Khufu's reign represents the height of ancient Egyptian engineering and architectural achievement. The construction of his pyramid required advanced planning, skilled labor, and sophisticated techniques, reflecting the remarkable capabilities of Old Kingdom Egypt.Khufu's Great Pyramid remains one of the world's greatest architectural masterpieces and a symbol of ancient Egypt. His reign left an enduring legacy of engineering excellence and monumental construction that continues to inspire historians, archaeologists, and millions of visitors every year.",
+    "achievements": [
+      "Constructed the Great Pyramid",
+      "Expanded royal building projects"
+    ],
+    "images": ["https://images.openai.com/static-rsc-4/G3tZCQgi9cjOw4IbzKTQXkRy4EB5qkKRrxlCBorsorqRcDTGslPZzjj6Egx-mzzZHhKv661DsqiPvcpLVBU-wUs7fkIAFQh8wPbAM319TzgvkhTk234helEJ_o8glKWyPwSPFd4NMF7AS8q1uYo94c0f0dE4AbUc6iTx6RJYINk?purpose=inline",
+    "https://images.openai.com/static-rsc-4/pgL1M2TDiv1gHdEQ_gFHrSD-8vwuA5Lr4htQMBfTEZvJXjp8m3ek3tIqtFhEexnFMWLpwd7MqJZcS3rYkX9F_B5TzaEanLt_xUcYu0QoAbYx4W2CEtW6MuAdcj80TvP0yqayllRBzAUtlD0lk9qLyUytAUvYUO1DI3vhUnzC8z4?purpose=inline",
+    "https://images.openai.com/static-rsc-4/BEJyY23luJAqOMMOfv_0zEwAGazf5T86syh19ECaDmCsTIKLY_kEcL1vKAVZ5CiIUTv-3ns-ghSnFIaAe5QBoLab6W_puwFypdW_Nhegg-dsjuH_SiOMOYpF5bMlspOFCRRVgOMLkOFsECr9CCxa_rdStUSk0cdaKmn4DDIrFIZgtANghJkd5cxDx9ej6GRO?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/qVVYDMADqj5lwMDiTm4jgHI4vvd2O-uqWxf4nTCwmjWeKfmAReqG02bTcHJkmrWDVs4nQjlA8woL5Pq6eWum0FXqhshKaNgZZMbAIGerVBUWe02i5HKzRj5TWL893skzw4F5eiE9tpraQ5KgFd5y7YmxyD1H79mIt2wQCJ1R_1_LXjjv3RBXcYXjCu9Ntez9?purpose=fullsize"]
+  },
+  {
+    "id": 4,
+    "name": "Khafre",
+    "arabic_name": "خفرع",
+    "dynasty": "4th Dynasty",
+    "reign": "c. 2558–2532 BC",
+    "capital": "Memphis",
+    "description": "Khafre (also known by the Greek name Chephren) was the fourth pharaoh of the Fourth Dynasty during Egypt's Old Kingdom. He ruled around 2558–2532 BC and is best known for building the Pyramid of Khafre, the second-largest pyramid at Giza, and for being closely associated with the Great Sphinx of Giza.The Pyramid of Khafre originally stood 143.5 meters (471 feet) tall. Although slightly smaller than Khufu's pyramid, it appears taller because it was built on higher ground. It still preserves some of its original white limestone casing stones at the summit.Great Sphinx of GizaThe Great Sphinx is commonly believed by archaeologists to have been carved during Khafre's reign. With the body of a lion and the face of a king, it is one of the world's most iconic monuments and symbolizes royal power and wisdom.Historical Importance Khafre maintained Egypt's prosperity and continued the ambitious construction projects of the Fourth Dynasty. His funerary complex, including the Valley Temple, Causeway, and Mortuary Temple, is among the best-preserved royal complexes from ancient Egypt.",
+    "achievements": [
+      "Built Khafre Pyramid",
+      "Associated with the Great Sphinx"
+    ],
+    "images": ["https://images.openai.com/static-rsc-4/4Lg4nFqTZ3GRfQGa20hn1MYf8FEgD0hoRNivQ_-g9j0Kdk8vEZJylPt09Hz69S31Go4ijZKS5WgFL9PQWG9Y5LRg-jdLuX2luuk8-mJr0NRPMMPfNj3ZGyayrUF-lqW42L2sYGfxG4XcfTp4Y4nb5B1_rIYeXO2L1KwnSoe_zdQ?purpose=inline",
+    "https://images.openai.com/static-rsc-4/87AN_H49LKgMH3fUHcj3knW_-IL8gDN6Ip-aQr-Pl-jpnTXqsAuxj8UOerFUKVLbzaOyywba7Yz5Es29MIoEjMhdbKfk--33kl9Uz8jfrs699brDD8s4cjT8CkGgVkZsJ2OO26xHTJi8pHM04PK8B7NIDe1XdWeo_dWdjOrGaZBmK09sMhGmD5eDl3-MTG_p?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/MXe6oy-6G2fW6KFiT5gjG8YqZEkt-rqlYl84iv_9zxGqG4GjSneZgQpYYJolUJ36d3JQrTCn9Pq1m3VkymxqMSh17UcJfaYLYg9IF80_kZ5cWoDgnm27ZfeNGqIeah41kRuw0xJLoOnc7W02utD41SoHpHe6ORzUuOgBkt0UYrkgmvUThZ1eZ3v9YppwvMs9?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/URSVdSDctA5heCNb-1zyLMVt5lesqxZVp1ndX4QHnAfWKdWAF0QVCx0vcDAlZE9Pvzst5_3MYxVS_NPnFlb0w7KDwLeIeECW2JNAHbiewHClTqqsw1Sm-Z2qLm_4NVoZ_FlwrxdfDi-HlxQa4U0CkrtUhaP2JDRdSMIHNMfXTtXiw1ef-C-4QZggB6sGwn5d?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/xSOf7-m9MT9hzMytv_gkZQ5aBaI82auEW07lq5LJ4nQpwvDfalJUIAeyvOR8VEjs-f1_Zw8iB6u6dFAti29CQPde4yjof__3zAODk1JfHCWB0Db8_RFpmZpf9bpTBKAa6TafoiSXL50RCIF2l_O_fjmKXMavvMTPH-FHC2qlXLKH-VprDCkCc6Z29Yfp0PyT?purpose=fullsize"]
+  },
+  {
+    "id": 5,
+    "name": "Menkaure",
+    "arabic_name": "منقرع",
+    "dynasty": "4th Dynasty",
+    "reign": "c. 2532–2503 BC",
+    "capital": "Memphis",
+    "description": "Menkaure (also known by the Greek name Mykerinos) was the fifth pharaoh of the Fourth Dynasty during Egypt's Old Kingdom. He ruled around 2530–2510 BC and is best known for constructing the Pyramid of Menkaure, the smallest of the three great pyramids on the Giza Plateau. Menkaure's reign marked the final stage of the monumental pyramid-building era at Giza. Although his pyramid is smaller than those of Khufu and Khafre, it is admired for its elegant proportions, high-quality craftsmanship, and distinctive granite casing. Menkaure is remembered for completing the final great pyramid at Giza and for the exceptional quality of the sculptures created during his reign. His monuments reflect the artistic excellence and architectural mastery of Egypt's Old Kingdom, preserving his legacy as one of the most celebrated pharaohs of the Fourth Dynasty.",
+    "achievements": [
+      "Built Menkaure Pyramid",
+      "Promoted artistic development"
+    ],
+    "images": ["https://images.openai.com/static-rsc-4/Ry08Jvzv52DuAB_ori5wMawwVsZ1wefGR5yPf1uU5ydqPa_p0Wb0jmdFPN4S5l683BV3w2lL9X_nfX2ALwC-Ykgz-oV2nbLYnzMNmoGEVbY-f2PrUcn8JER_vuTR5VBjvPouYzROrnhrZqZiY67k2u0vjfaYCq8OGx7CKZoeawG6q4gD-WxZRrN1zE8U-gWu?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/IGp9kU7UpD2Gik3ta2sKPg__RyTC0e1oYys7ghLgRfaBTsv234bMta84kz0zV4_Pz7IS3nuQqj_E6RMiSmKJpBCRGvado14pQIRgHYYAJhUpMyx56xm1CBAdC_1FLrurO1QbiCE6k2LbEI-8hI5sg2mJwiajYYJM3fnu5yxGHu9TYExD1UbldDP7ePlviwcb?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/SRT8z0eQSElUBnG8WNp73RvN8oFOGda1fsRKYKQZ2biB-rbmbzS5ceJ22bHtCfTYjTcVnOxknoALFxJ-a4cBCRrY3w0DbIOA8xnucEzbPg8iwE_V9kpYT0PL7GPthJza9s7QEzYP8AHikVIDiS80yv-yd0D6zsiifNwXM4ySqn1LbWYwdTot-_MevNa5b8U1?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/Is_MVnq-BZba3ngLJdZE0E9_bZmxSqBbQouAJXfd992cQmJWwcJYvKgqw6xXXf8XltdsEg7cefei9qaLF1enoXh90FvFYu31O_Nag5D09txJya6g9mtC7zYNvWbHXHMbPhKQFzDtBx1pZLywGy9A2zd_Ld4Ph1fFtrRPZWharOzNWjpU6eG4ro-B-fYe1jr9?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/eXU9jhHyrAgVEsYezVFLoVtWx6rb8sk4Ut5tcojRvFDeqTyeafki60Y4MWX-lBh9Ymh1iiiMkXfnuRgbxaaALgnT2jPoW4b-0CyiNY5FSu6ezj0fTxl9IBxCJ8T0a2msSqapunGcy7WW_KuRGuiQgRawBrWx2B9LxeQHjtTw02LcxbMEbQxKSPUE5imhEWzg?purpose=fullsize"]
+  },
+  {
+    "id": 6,
+    "name": "Hatshepsut",
+    "arabic_name": "حتشبسوت",
+    "dynasty": "18th Dynasty",
+    "reign": "1479–1458 BC",
+    "capital": "Thebes",
+    "description": "Hatshepsut was one of the greatest and most successful rulers of ancient Egypt. She was the fifth pharaoh of the Eighteenth Dynasty during the New Kingdom and ruled from approximately 1479–1458 BC. As one of the few women to reign as pharaoh, she adopted the full royal titles and was often depicted wearing the traditional pharaoh's crown and ceremonial false beard.Hatshepsut strengthened Egypt's economy by organizing the famous expedition to the Land of Punt, which brought back gold, incense, ebony, exotic animals, and myrrh trees. Her reign is remembered as one of stability, prosperity, and remarkable architectural achievement.Hatshepsut is remembered as one of Egypt's most remarkable rulers. Her successful reign, ambitious building projects, and promotion of international trade helped strengthen the New Kingdom. Today, she is celebrated as a symbol of effective leadership and one of the most influential women in ancient history.",
+    "achievements": [
+      "Expanded trade networks",
+      "Built Deir el-Bahari Temple"
+    ],
+    "images": ["https://images.openai.com/static-rsc-4/FYymqgfC_OhouuBkBsKIsilD7DJlpzGdq_JW7AIy5GkN_VDTxf4OxZ-FjHk1j1MWJpJTbLikN1I-xwqqN7o9tnMJ31Ia3i00MrVaesylc6zsdZaQAA64mnvzreihfEkyfpKSM9AxMO7ARV7UuFxcN0_ltfib-6Y9bkmq9ZMSdPjgb7AtUVVf9aX_6KZxHKx7?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/tr9dNLGN_pPImN4OfGKBsPLOKfdq8-0NGuQZJzfbnPXS9NHE77eAjSHxc9CLvYlpBp983V6p7RrCcsB4wicny6z-K5HT9jqSOvGC0mcTzP8L1Y925G2ucSlzXDKhE8QmlIZNLJJFpo2qUXSUV7QtT2ZCdCg5Okmd3DsnqvlRVVGmvBeLA2wFxk9O7zg7hDwz?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/wcr-iqmGjkFTtj6FFid_WTSoEsaGTQ5r9-dviHrLZpQfUfSrvFh2QcgajoTdotS_5agSIMZA7lngUP2ykfRzfv57I1T1F54xHfrJ5aNY_JSWqEyD09J8weiszMp1xjZnRLn37gY2a4HdnUO6XfMhYMRmxYrjVfyM9CzMcqln2fGcJUeS2HlymFQFFQ6YxoNJ?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/3sOFYw6mZesBc5MbdssVxM--cp_IxElZOFPJ76JDcZE8QrWWCbNI-p9vu63-buMtJuatZU03M6GK3OP71_cXv8_CmO0rv0A4PjgoT_gwt0mJRjyzgXzZk86yG_J_oFPPU9uioNlVJV8iMO5c3odTmqR1ZX-8vFSXGXQiHF1STpDgvqnpuxdKnY83tPAE-huh?purpose=fullsize"]
+  },
+  {
+    "id": 7,
+    "name": "Thutmose III",
+    "arabic_name": "تحتمس الثالث",
+    "dynasty": "18th Dynasty",
+    "reign": "1479–1425 BC",
+    "capital": "Thebes",
+    "description": "Thutmose III was one of the greatest military leaders in ancient Egyptian history. He was the sixth pharaoh of the Eighteenth Dynasty during the New Kingdom, ruling approximately 1479–1425 BC. Often called the Napoleon of Ancient Egypt, he greatly expanded Egypt's empire through a series of successful military campaigns.After serving as co-ruler with Hatshepsut, Thutmose III became the sole ruler of Egypt. His victory at the Battle of Megiddo is considered one of the earliest battles documented in detail. His campaigns secured Egypt's control over much of Nubia, Canaan, and Syria, bringing immense wealth and prestige to the kingdom.Thutmose III is remembered as one of Egypt's greatest warrior pharaohs. His military achievements, diplomatic success, and impressive building projects transformed Egypt into a powerful international empire. His legacy continues to inspire historians and archaeologists as one of the most accomplished rulers of the ancient world.",
+    "achievements": [
+      "Expanded the Egyptian Empire",
+      "Won numerous military campaigns"
+    ],
+    "images": ["https://images.openai.com/static-rsc-4/JSIoAE3oWckNd07oVgFXMeGTfKooZ5xqT1pS4wfPX8juDenmC60rNmqItbARNLzwtCY6S6sokxqfHLPIyyLCLEtGu_ELR9eWR-zhqtCHPjxBfUSEDxtvOnPcYkLNboPT-AFfKw8aECVKImnjn4cyEq1b2wCB04nvNIhsKBS3TdTqDr31M_Xp-BdUJ8JkTgnY?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/CZBPy5gQUq--dMDLlFTTn9-pBo7nRnGqc5yX7m2vC7eiVB665DSRlE4l6YAbaWJdfgyWturnKGaJDXOJNFN-RgZZb0wx4KMYghWI38QrEJoJislIpThj7KQSsyN4t593YZh7t_dn3lJlckukLRO8nWKbvUXOSjj6oteR1Y7AjH--Cds8vrV8jx-bnV1n418x?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/E8XOL5a1nDuixj6BTufg1zTOqLQ3DkTm3genFOm_zh2HemD1jNMGidOASffHhzRbgNARUhTq5S_Fn5STbjUHS4tQqamqkZ-7uOJvNJ8UmOxt5FGJQZNsMrlZZHMOL6L-bmwitsIblZGLo0aLHwNOlWjOt2dRMVNrxnDMggB9aq_LEZlXS5okTWKhI2ePHv-d?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/NvvYnkJNz_wmMSIU-_9fDOfXp1tks9l1UHhvk3lPwiMtl8HYF9HP3fViTEfEMwux2M02ncwc6WIGPoGZdi67CF2su3ZQDaRd-ATbdcfifMpOlsMMIyuntzV90uebsYLQL4hjyiaLMR4jJJsvIsX0aFmpUbazmGi9l7xDYgxN5e4payPOwbsjgMn6CJXwHj06?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/FlUCldhiS055m25uHsSX-mSHEziUl_Jt1V1Cql7eNbdraWl6sO4rxESYiMjU8Xd5JAP_vR_yI05371sbOqTCXsCUrbYnvA8WB9-x98Rz0jD23lpiLaNZFJGdndAKTR8szGNy5LGZou0lhSRdvDxoyMhn-BrIDUcJ7YhFABW5GYEXSkCtUzjU5lRX5f_HZjO7?purpose=fullsize"]
+  },
+  {
+    "id": 8,
+    "name": "Akhenaten",
+    "arabic_name": "أخناتون",
+    "dynasty": "18th Dynasty",
+    "reign": "1353–1336 BC",
+    "capital": "Akhetaten",
+    "description": "Akhenaten (originally named Amenhotep IV) was a pharaoh of the Eighteenth Dynasty during Egypt's New Kingdom, ruling approximately 1353–1336 BC. He is best known for introducing a revolutionary religious reform centered on the worship of the Aten, the sun disk, and for founding a new capital city called Akhetaten (modern-day Amarna).Akhenaten's religious reforms challenged the traditional worship of Amun and other Egyptian gods, significantly reducing the power of the priesthood. After his death, most of his reforms were reversed, and later rulers restored the traditional religion. His son, Tutankhamun, famously abandoned the Aten cult and returned the royal court to the worship of the traditional gods.Akhenaten remains one of the most fascinating and debated pharaohs of ancient Egypt. His religious revolution, artistic innovations, and creation of a new capital transformed Egyptian society for a brief period. Although many of his reforms did not survive, his reign continues to be studied as one of the most remarkable episodes in the history of ancient Egypt.",
+    "achievements": [
+      "Religious reforms",
+      "Founded Akhetaten"
+    ],
+    "images": ["https://images.openai.com/static-rsc-4/5hkfQzO-1gTE3Kp96sBIasuTDJUwCLUMdDfeLg0oYSLrkOG-gTrirWqeLtRS4CEyIam4JrvhuE_jx2AcBJkUtjT96akgxji_nWWivDIYJ5tA6ZtT75g1gbS1WiZ9YGLjT62BxJ9hS100_mQLI7G4V2pHoSv-ycadszPe31PZ8gc?purpose=inline",
+    "https://images.openai.com/static-rsc-4/2i73I6fYo_zTBqMf-k6UrrZ9F6p5xCwYumR_IW-vMkoGhzHy_xHFc3-YIlSlOUdIF3IO0fks9_CdJ-W7y7MAmG8dZ5eBFGOmsT8VforfOVmdHlrLHeeyEftIktlKVHGTjjlKj_dMV1CBVv9BDchQvKjEyXCwkbdZjFdoTmYE4b4wySzlRlPDqdgAM7UmMPKe?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/JVbssAqghhsWoDIq5CNO7QWMX0tmoV3NPj7EUBte5F_nZeNb1dc4BX1mYWAyaaXP33k_Wj943V4NyvCxzVJ410-z5WPFggW4hMTUCEP9iQL2G26iRBLB8DsF26zfJdhdjzqUEJZI4ZNqH3LNgX7hk_38FL58kEyklVwqNkN2jM6a7H48BmovwFG5eCjx4DmB?purpose=fullsize"]
+  },
+  {
+    "id": 9,
+    "name": "Tutankhamun",
+    "arabic_name": "توت عنخ آمون",
+    "dynasty": "18th Dynasty",
+    "reign": "1332–1323 BC",
+    "capital": "Thebes",
+    "description": "Tutankhamun, often called King Tut, was a pharaoh of the Eighteenth Dynasty during Egypt's New Kingdom. He ruled approximately 1332–1323 BC and became pharaoh at about nine years of age. Although his reign was relatively short, he became the most famous Egyptian king because of the discovery of his nearly intact tomb in the Valley of the Kings in 1922.Although Tutankhamun's reign was short, his decision to restore Egypt's traditional religious practices marked the end of the Amarna Period. The discovery of his tomb provided archaeologists with an unprecedented insight into the wealth, craftsmanship, and burial customs of the New Kingdom.Tutankhamun's fame comes not from military conquests or monumental buildings, but from the extraordinary preservation of his tomb and its treasures. His discovery transformed the study of Egyptology and continues to captivate millions of visitors and researchers, making him one of the most iconic figures in world history.",
+    "achievements": [
+      "Restored traditional religion",
+      "Left the most famous royal tomb"
+    ],
+    "images": ["https://images.openai.com/static-rsc-4/DJpT7lFLBLwLuHfwz2bUQ0zsEqVYK2MklxJDZtG1aNeYHxZ931Uj_UlO9yG8U1UyhPwZdaWf3CutPZxTpVen-SySUykYwJdgHe32BSP9o8zLtanet1f5ryqGRTfy9-ArDe5YWgd5_9Ity8GCTHsze-RqPbaXT0TRZQYMk9cOyT08pnyrHgcRTLegka-MSSXn?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/kR5kEmvOCJ2XWaML-WwcY0QOwHfyeQ8KMADb8b739DiyfM4049OyOnFbHuprWNgqHmDksvm4Vz5DHPT2qFq_NHi7rr5gkn5uiTDed-D930yKcXCXbza0PtrR4A1MekXnULB9Ch_NHvv21c50GlEXOn7bNxl3TOu6-B71H1xOP2tjlhzOKmerhk4SPXDf6iwj?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/4HjB2YUI0MxZOcWiX13Ectar7U3YEYrYNeXHI4Z3kyAracQEOPxGOdHX6YVjstUe1ECkmRVnEEjvN59wPq8224oqBllHkv9e313prbdg6GKgKAcW8fdwGd6anz_NpODGW-zTlEd3ju17skanKbD2TClZF_LP470F3pbNudJXcbJxrvRpOBn5lTa4dazN0tno?purpose=fullsize"]
+  },
+  {
+    "id": 10,
+    "name": "Ramesses II",
+    "arabic_name": "رمسيس الثاني",
+    "dynasty": "19th Dynasty",
+    "reign": "1279–1213 BC",
+    "capital": "Pi-Ramesses",
+    "description": "Ramesses II, also known as Ramesses the Great, was one of the most powerful and celebrated pharaohs of ancient Egypt. He ruled during the Nineteenth Dynasty of the New Kingdom from approximately 1279–1213 BC, making his reign one of the longest in Egyptian history. Renowned as a warrior, builder, and statesman, Ramesses II left an enduring legacy through his military campaigns and monumental architecture.Ramesses II ruled Egypt for 66 years, overseeing a period of remarkable prosperity and stability. His military campaigns extended Egypt's influence, while his extensive building projects showcased the wealth and power of the New Kingdom. His reign is often regarded as the peak of ancient Egyptian civilization.Ramesses II is remembered as one of the greatest rulers of ancient Egypt. His military achievements, diplomatic successes, and extraordinary architectural legacy continue to define the grandeur of the New Kingdom. His temples, colossal statues, and inscriptions remain among Egypt's most iconic monuments, attracting millions of visitors from around the world each year.",
+    "achievements": [
+      "Built Abu Simbel",
+      "Signed the earliest known peace treaty",
+      "Led the Battle of Kadesh"
+    ],
+    "images": ["https://images.openai.com/static-rsc-4/0pzdNvjcwheTm7lvLmBydL7-UCcAFP7U1EXvjgjoi7RaTYp9JePwyp6qVgKLyiBY6m9KKIh0LONXth2Vmpa-2fuq19yWXyGS81S7k0SgS5q-t5Lix-SaxipeOQyel8m7MYGQi2DTXcCO6NhSSYzpPPJA68ApLEC36fh2uVS70xlJMCg9awQvC8rHp4ayRZmv?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/2XwFvEH3aHXEXdwY9XPTkfiBv_C6IdCofMmDI23KbjNmq3xT7n4zOJpiQY4dOEJSpo1CG3690OjK49iKUEDs7Ie-7Xfyc7X_Ru7xGMtZn5MR5wgFr5k5zsoWN26_8G_-wJEWpNkeW44IkUdo4e3bCs8fYLEVBwkqylFWIA-tcN4tcRoO-B5liSrVr-4uZHfe?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/KRs2_TA3GTcD4Bedf0n16QkovPBGt1D4v9n14wCzCkd5YZW_x7w_unjhaGK-_kprk_QAUPgJZ60HKr0efjHKD8nm0fwTo8lI41MPRVzdNQv0llfNPnWdNfoxo3XGgtP8D04bqU0VWX1HH-wy2gepNUHGDVH25W5AFivAMUB3Urg2BYaWJSSSxEi47xH_TK5L?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/B_dFNrYTMjpRLP3Vy2TX1e3R9QcHDMgNMt0AcMjw6gclLS9WVMEWndwEUV5rwW2i9ZZpwaQ-bXZm2IBllPRxl_Xxy8dn6qAVtvZpuBvnINR3ltCTQeRs0bXH9sbJc4EBQ2HeIC90NqEz8EkRIlarAo2iHAw1mQhjinVubyrR2Hdx5CjGpw4V_FxbpgZh4sBa?purpose=fullsize"]
+  }
+]

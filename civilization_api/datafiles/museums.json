@@ -1,0 +1,132 @@
+[
+    {
+        "id":  1,
+        "name":  "Grand Egyptian Museum",
+        "arabic_name":  "المتحف المصري الكبير",
+        "city":  "Giza",
+        "established":  2024,
+        "description":  "The largest archaeological museum dedicated to a single civilization, located near the Giza Pyramids.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/By_ovedc_-_Grand_Egyptian_Museum_-_02.jpg/960px-By_ovedc_-_Grand_Egyptian_Museum_-_02.jpg",
+        "location":  {
+                         "latitude":  29.9884,
+                         "longitude":  31.1342
+                     }
+    },
+    {
+        "id":  2,
+        "name":  "Egyptian Museum",
+        "arabic_name":  "المتحف المصري",
+        "city":  "Cairo",
+        "established":  1902,
+        "description":  "Historic museum in Tahrir Square housing thousands of ancient Egyptian artifacts.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/1897_bis_1902_wurde_das_%C3%84gyptische_Museum_in_Kairo_gebaut._04.jpg/960px-1897_bis_1902_wurde_das_%C3%84gyptische_Museum_in_Kairo_gebaut._04.jpg",
+        "location":  {
+                         "latitude":  30.0478,
+                         "longitude":  31.2336
+                     }
+    },
+    {
+        "id":  3,
+        "name":  "National Museum of Egyptian Civilization",
+        "arabic_name":  "المتحف القومي للحضارة المصرية",
+        "city":  "Cairo",
+        "established":  2017,
+        "description":  "Museum showcasing Egyptian civilization from prehistoric times to the modern era.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/National_Museum_of_Egyptian_Civilization_2022_06.jpg/960px-National_Museum_of_Egyptian_Civilization_2022_06.jpg",
+        "location":  {
+                         "latitude":  30.0078,
+                         "longitude":  31.2487
+                     }
+    },
+    {
+        "id":  4,
+        "name":  "Luxor Museum",
+        "arabic_name":  "متحف الأقصر",
+        "city":  "Luxor",
+        "established":  1975,
+        "description":  "Museum displaying artifacts from the Theban temples and necropolis.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Luxor_Museum_1.JPG/960px-Luxor_Museum_1.JPG",
+        "location":  {
+                         "latitude":  25.7074,
+                         "longitude":  32.6396
+                     }
+    },
+    {
+        "id":  5,
+        "name":  "Nubian Museum",
+        "arabic_name":  "المتحف النوبي",
+        "city":  "Aswan",
+        "established":  1997,
+        "description":  "Museum dedicated to Nubian culture and history.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aswan_Nubian_Museum_entrance.jpg/960px-Aswan_Nubian_Museum_entrance.jpg",
+        "location":  {
+                         "latitude":  24.0818,
+                         "longitude":  32.8872
+                     }
+    },
+    {
+        "id":  6,
+        "name":  "Museum of Islamic Art",
+        "arabic_name":  "متحف الفن الإسلامي",
+        "city":  "Cairo",
+        "established":  1903,
+        "description":  "One of the world\u0027s largest collections of Islamic artifacts.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GD-EG-Caire-Mus%C3%A9eIslam001.JPG/960px-GD-EG-Caire-Mus%C3%A9eIslam001.JPG",
+        "location":  {
+                         "latitude":  30.0444,
+                         "longitude":  31.2554
+                     }
+    },
+    {
+        "id":  7,
+        "name":  "Coptic Museum",
+        "arabic_name":  "المتحف القبطي",
+        "city":  "Cairo",
+        "established":  1910,
+        "description":  "Museum containing the world\u0027s largest collection of Coptic Christian artifacts.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kairo_-_Altkairo_05.jpg/960px-Kairo_-_Altkairo_05.jpg",
+        "location":  {
+                         "latitude":  30.0067,
+                         "longitude":  31.2303
+                     }
+    },
+    {
+        "id":  8,
+        "name":  "Royal Jewelry Museum",
+        "arabic_name":  "متحف المجوهرات الملكية",
+        "city":  "Alexandria",
+        "established":  1986,
+        "description":  "Museum displaying jewelry and possessions of Egypt\u0027s royal family.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/f/f6/AlexRoyalJewelleryMusLeft.jpg",
+        "location":  {
+                         "latitude":  31.2456,
+                         "longitude":  29.9667
+                     }
+    },
+    {
+        "id":  9,
+        "name":  "Greco-Roman Museum",
+        "arabic_name":  "المتحف اليوناني الروماني",
+        "city":  "Alexandria",
+        "established":  1892,
+        "description":  "Museum dedicated to the Greco-Roman heritage of Egypt.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/3/3d/Fassade_des_griechisch-r%C3%B6mischen_Museums_in_Alexandria%2C_%C3%84gypten.jpg",
+        "location":  {
+                         "latitude":  31.2001,
+                         "longitude":  29.9187
+                     }
+    },
+    {
+        "id":  10,
+        "name":  "Sharm El Sheikh Museum",
+        "arabic_name":  "متحف شرم الشيخ",
+        "city":  "Sharm El Sheikh",
+        "established":  2020,
+        "description":  "Modern museum displaying artifacts from various eras of Egyptian history.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sharm_El_Sheikh_-_panoramio_%2815%29.jpg/960px-Sharm_El_Sheikh_-_panoramio_%2815%29.jpg",
+        "location":  {
+                         "latitude":  27.9158,
+                         "longitude":  34.3299
+                     }
+    }
+]

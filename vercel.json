@@ -1,0 +1,8 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "functions": {
+    "app.py": {
+      "excludeFiles": "{ai_service/**,civilization_api/**,routes/predict.py,services/**,uploads/**,weights/**,datasets/**,dataset/**,runs/**,train/**,**/__pycache__/**,**/*.pyc,**/*.pt,**/*.pth,**/*.onnx,**/*.engine}"
+    }
+  }
+}

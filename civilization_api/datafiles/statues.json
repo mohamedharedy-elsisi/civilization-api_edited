@@ -1,0 +1,167 @@
+[
+    {
+        "id":  1,
+        "name":  "Great Sphinx of Giza",
+        "arabic_name":  "أبو الهول العظيم",
+        "location":  "Giza",
+        "period":  "Old Kingdom",
+        "material":  "Limestone",
+        "height_m":  20,
+        "description":  "The largest monolithic statue in the world, believed to represent Pharaoh Khafre.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Sphinx_with_the_third_pyramid.jpg/960px-Sphinx_with_the_third_pyramid.jpg"
+    },
+    {
+        "id":  2,
+        "name":  "Colossi of Memnon",
+        "arabic_name":  "تمثالا ممنون",
+        "location":  "Luxor",
+        "period":  "18th Dynasty",
+        "material":  "Quartzite",
+        "height_m":  18,
+        "description":  "Two massive statues of Pharaoh Amenhotep III.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Colossi_of_Memnon_May_2015_2.JPG/960px-Colossi_of_Memnon_May_2015_2.JPG"
+    },
+    {
+        "id":  3,
+        "name":  "Statue of Ramesses II",
+        "arabic_name":  "تمثال رمسيس الثاني",
+        "location":  "Grand Egyptian Museum",
+        "period":  "19th Dynasty",
+        "material":  "Granite",
+        "height_m":  11,
+        "description":  "A colossal statue of Ramesses II discovered at Memphis.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ramses_II_British_Museum.jpg/960px-Ramses_II_British_Museum.jpg"
+    },
+    {
+        "id":  4,
+        "name":  "Khafre Enthroned",
+        "arabic_name":  "تمثال خفرع",
+        "location":  "Egyptian Museum",
+        "period":  "4th Dynasty",
+        "material":  "Diorite",
+        "height_m":  1.68,
+        "description":  "One of the finest examples of royal sculpture from the Old Kingdom.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Kairo_Museum_Sitzstatue_Chephren_06.jpg/960px-Kairo_Museum_Sitzstatue_Chephren_06.jpg"
+    },
+    {
+        "id":  5,
+        "name":  "The Seated Scribe",
+        "arabic_name":  "الكاتب الجالس",
+        "location":  "Louvre Museum",
+        "period":  "5th Dynasty",
+        "material":  "Limestone",
+        "height_m":  0.53,
+        "description":  "A famous statue depicting a seated royal scribe.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Le_Scribe_accroupi_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_%C3%A9gyptiennes_E_3023.jpg/960px-Le_Scribe_accroupi_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_%C3%A9gyptiennes_E_3023.jpg"
+    },
+    {
+        "id":  6,
+        "name":  "Statue of Djoser",
+        "arabic_name":  "تمثال زوسر",
+        "location":  "Saqqara",
+        "period":  "3rd Dynasty",
+        "material":  "Limestone",
+        "height_m":  1.42,
+        "description":  "The oldest life-sized Egyptian royal statue known.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Djoser_cropped.jpg/960px-Djoser_cropped.jpg"
+    },
+    {
+        "id":  7,
+        "name":  "Triad of Menkaure",
+        "arabic_name":  "ثالوث منقرع",
+        "location":  "Egyptian Museum",
+        "period":  "4th Dynasty",
+        "material":  "Greywacke",
+        "height_m":  0.95,
+        "description":  "King Menkaure shown with Hathor and a regional deity.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/f/fb/Menkaura_Bust_Closeup.jpg"
+    },
+    {
+        "id":  8,
+        "name":  "Statue of Hatshepsut",
+        "arabic_name":  "تمثال حتشبسوت",
+        "location":  "Metropolitan Museum of Art",
+        "period":  "18th Dynasty",
+        "material":  "Granite",
+        "height_m":  2.3,
+        "description":  "A royal statue of Egypt\u0027s most famous female pharaoh.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Seated_Statue_of_Hatshepsut_MET_Hatshepsut2012.jpg/960px-Seated_Statue_of_Hatshepsut_MET_Hatshepsut2012.jpg"
+    },
+    {
+        "id":  9,
+        "name":  "Statue of Amenhotep III",
+        "arabic_name":  "تمثال أمنحتب الثالث",
+        "location":  "Luxor",
+        "period":  "18th Dynasty",
+        "material":  "Quartzite",
+        "height_m":  7,
+        "description":  "A colossal statue representing Amenhotep III.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Colossal_Amenhotep_III_British_Museum.jpg/960px-Colossal_Amenhotep_III_British_Museum.jpg"
+    },
+    {
+        "id":  10,
+        "name":  "Statue of Tutankhamun",
+        "arabic_name":  "تمثال توت عنخ آمون",
+        "location":  "Egyptian Museum",
+        "period":  "18th Dynasty",
+        "material":  "Wood and Gold",
+        "height_m":  1.8,
+        "description":  "A gilded statue discovered in Tutankhamun\u0027s tomb.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/CairoEgMuseumTaaMaskMostlyPhotographed.jpg/960px-CairoEgMuseumTaaMaskMostlyPhotographed.jpg"
+    },
+    {
+        "id":  11,
+        "name":  "Statue of Akhenaten",
+        "arabic_name":  "تمثال أخناتون",
+        "location":  "Cairo",
+        "period":  "18th Dynasty",
+        "material":  "Sandstone",
+        "height_m":  2.1,
+        "description":  "Depicts the revolutionary pharaoh Akhenaten.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/GD-EG-Caire-Mus%C3%A9e061.JPG/960px-GD-EG-Caire-Mus%C3%A9e061.JPG"
+    },
+    {
+        "id":  12,
+        "name":  "Statue of Nefertiti",
+        "arabic_name":  "تمثال نفرتيتي",
+        "location":  "Berlin",
+        "period":  "18th Dynasty",
+        "material":  "Limestone",
+        "height_m":  0.48,
+        "description":  "The world-famous bust of Queen Nefertiti.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nofretete_Neues_Museum.jpg/960px-Nofretete_Neues_Museum.jpg"
+    },
+    {
+        "id":  13,
+        "name":  "Statue of Senusret III",
+        "arabic_name":  "تمثال سنوسرت الثالث",
+        "location":  "Egyptian Museum",
+        "period":  "12th Dynasty",
+        "material":  "Granite",
+        "height_m":  1.9,
+        "description":  "A realistic portrait of a Middle Kingdom ruler.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Portrait_head_of_pharaoh_Sesostris-Senusret_III_from_a_sphinx_statue_02_%28cropped%29.jpg/960px-Portrait_head_of_pharaoh_Sesostris-Senusret_III_from_a_sphinx_statue_02_%28cropped%29.jpg"
+    },
+    {
+        "id":  14,
+        "name":  "Statue of Pepi I",
+        "arabic_name":  "تمثال بيبي الأول",
+        "location":  "Saqqara",
+        "period":  "6th Dynasty",
+        "material":  "Copper",
+        "height_m":  1.2,
+        "description":  "One of the oldest large metal statues known.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/8/85/Pepy_I_cropped.jpg"
+    },
+    {
+        "id":  15,
+        "name":  "Statue of Osiris",
+        "arabic_name":  "تمثال أوزوريس",
+        "location":  "Abydos",
+        "period":  "New Kingdom",
+        "material":  "Granite",
+        "height_m":  2.5,
+        "description":  "Depicts Osiris, god of the afterlife.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Standing_Osiris.svg/960px-Standing_Osiris.svg.png"
+    }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Hatshepsut Obelisk",
+    "arabic_name": "مسلة حتشبسوت",
+    "city": "Luxor",
+    "location": "Karnak Temple",
+    "historical_era": "18th Dynasty",
+    "builder": "Hatshepsut",
+    "description":"The Obelisk of Hatshepsut is one of the tallest and best-preserved ancient Egyptian obelisks still standing in its original location. It was carved from a single block of red granite quarried at Aswan and transported to Karnak Temple, where it was erected in the sacred precinct of Amun-Ra. Its four sides are covered with finely carved hieroglyphic inscriptions praising Amun-Ra and commemorating Hatshepsut's devotion to the god. The inscriptions also celebrate the queen's legitimacy as pharaoh and record that the obelisk was completed in a remarkably short time.The Hatshepsut Obelisk is part of the Karnak Temple Complex, which belongs to Ancient Thebes with its Necropolis, designated as a UNESCO World Heritage Site in 1979.",
+    "images": [
+      "https://images.openai.com/static-rsc-4/oEGwAHn9dCneEMErqiuzyjNL0qzyhb_JyZ6_QkvKNeyB10ZpgQ8VPewLVUkiRvQOpU4EFZ9ajvlJWyEHZ9JMRZuYSsxu5yIruncVcP6T4vD0cVFo0BqdzIAEakBLKUH9wrT8Zn8-r_4XZemRJHFRfW85qwmZcIosMl0DMT6NDVfjz2ZJSwt6PndYF45qJrIW?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/duvwyNshmmNlW2-zHHHrgg2HK7jsmJiwLVKVBAp-W1wJteQcUZ5nVDJ9LJydlC5mv0V44da5DFc1WtqCluBGEEic9ZLyIwY6YRgPaFkTURlkuDBufKA0n3JAat1Xz79afE-FMqjo_Z7QweaIVM6-a5RnaHCy6GBBGylHrW3DlJjbepOj_v80PROW6SS8e-08?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/vb0goouiJGKBP4Py4VREgG41xskiT1aN1li_f53AiQGaAUCYej1zlCivnYLosxdl9qeVcr15p6EqrPW1UxiZfaIKfPAab4OTdLfir-YizjI_nhVEFKp57fOciu2GAQcFg9eLF2xMFVYDMkJ1KII8gDSntBPb_jbb8Wvo97q629DNU86e0c5kmmJ-4hXNQSNJ?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/aRqaTBdicrVO-DJFQ3LV9O_cABund667GtBfCLvFWouMUk8rMG2vA-IUiK5hxVX16hWyCvfHR0PC8KSNZU5fVuSpl6uC56_QBae3tMqQhXXbYFLHRe4bWtSCXvCPR9XAulHD-UDacgpEXD0PB2u4TVc5CCHppuGTJEeVrXGbi_2Mt070g4hyLZRFGgEj7Blw?purpose=fullsize"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Thutmose I Obelisk",
+    "arabic_name": "مسلة تحتمس الأول",
+    "city": "Luxor",
+    "location": "Karnak Temple",
+    "historical_era": "18th Dynasty",
+    "builder": "Thutmose I",
+    "description":"The Obelisk of Thutmose I is one of the oldest surviving royal obelisks still standing at Karnak Temple. Carved from a single block of red Aswan granite, it was erected to honor Amun-Ra and commemorate the king's devotion to the god.Its four faces are covered with finely carved hieroglyphic inscriptions praising Thutmose I and celebrating his achievements. The monument demonstrates the exceptional engineering and stone-working skills of ancient Egyptian craftsmen during the early Eighteenth Dynasty.The Thutmose I Obelisk forms part of the Karnak Temple Complex, which belongs to Ancient Thebes with its Necropolis, a UNESCO World Heritage Site since 1979.",
+    "images": [
+      "https://images.openai.com/static-rsc-4/--EJCenvmkUrL6_moM7gogRlL0xbVy5oOpz5BRVUJM-6MSp5RHtUi0eKFyRHbeHnGjTnH_GfT51xkq6Fefmeosz87axqAIz2p9Zm6SvB0tHk3W89PDt8YHIpSl6sXkfvH08PRHqUAd6R_7WN4xGLqyUscG3qfMAhbrxgO4pEtrQZZRtdH3WmTEw7B3ySl8iA?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/Aa7nwH_jwvVTQMIMU2rO4rqBZUaHaRRt5bMAr-2kARedAZGC3ii6La59YZaZxfEnXrNN7_H23XKFXm5FsuS07qpHIxXaFHXkoI8BMMBB2WNtelowXdGofC6x7SqEKal4FohEqJDAkIaljeN4hrFAC5Hq5Ww9yE6V3d48Ojp00DcktCxXvlM2GY_pyDNJjtau?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/yW5ISJvabn7WyWcXmwE4vC_rWF721WLoJLoMew7noRGl-lCO_WHG1o456isD1wGvR5Jl9aDUJUKybiLlbrxhgaeqWwFoX8rPbWadizMlGRrnk1zUM6jsoTiRD8-rxZqhJ4qorIdRFDy32CaG0UNL-htTLZbjSP1VvBQVIh-jBszIe4dw54nM-n009mGRgq4K?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/6yTp_rtFDFO5r08fdoZGobTEP0vaLcsMBAUMFIT0UP69OaMaHgrbS7uifqUzAFq10Rp2jHtCoLz3n9aUeEqfC25wVkkRTuAsv--rWRlVD4hEawuE-AKYgLClRIq_ZDbIra5QzfHPQ3McvRh8pr1u0K1Fcr-8jnV3Va4FxX1rUHJDEF6OJIAIHtEeaEiadtMx?purpose=fullsize"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Luxor Obelisk",
+    "arabic_name": "مسلة الأقصر",
+    "city": "Luxor",
+    "location": "Luxor Temple",
+    "historical_era": "19th Dynasty",
+    "builder": "Ramesses II",
+    "description":"The Luxor Obelisk is one of a pair of monumental obelisks originally erected at the entrance of Luxor Temple by Ramesses II. Carved from a single block of red Aswan granite, it is covered with finely engraved hieroglyphic inscriptions celebrating the pharaoh's achievements and honoring the god Amun-Ra.In 1831, the Viceroy of Egypt, Muhammad Ali Pasha, presented one of the two obelisks to France. It was transported to Paris and erected in Place de la Concorde in 1836, where it remains today. Its twin continues to stand at Luxor Temple.The original site of the Luxor Obelisk at Luxor Temple forms part of Ancient Thebes with its Necropolis, which was inscribed as a UNESCO World Heritage Site in 1979.",
+    "images": [
+      "https://images.openai.com/static-rsc-4/0-j23kNfMZbRZ_ZuZcPAw-IRTmY2jEyP_gWbjoLgxhPzHAtMS6VYDWDVmV0MxnQFBRwsJK8Tj9ulcKPYNjDb3yh7y4cDnFSqXcWAeFk3n-mz01r2ZiHxKFGPKukZqu7xMe1JrzQiwswFTYN_00n78wR-F-hf1o97f2CxI453DEguRpFOWdq4dTopKdZg_XLn?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/I-0_InZ9A5PWcT46eM15_wtTWa7_gppObbkUD7SeYwnZZ5_fazr2uQIOGlaYyow6Av_jrhyLLOUw8Zl3MPFr6kj-cvfoPjUXiSYaWe4HjA_Q6Jgan7aBD6kpQ_xbaGy6Eu_h4yXNbOPS151we5vJOJFFOgRk9DpDzwrBiCi8ztgz6i0xGB8ta1Z9XSvK80Z8?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/spK5_yz4TkKDcgiOsL2o2pGFIP26C4nMu3yKt1Q2Pec61Ly3TUgPHEgN6KGQof9vNIdALtRFjS--SRzTkoxiF7hzfs8QjxoCDQYtj1gh9oqUaSukKxp6FOaEtcpD1vIzxoUgOh964cdkn-6KtWGmXlqA6QvTpWJa7iV5mohl9mEkPLqMm4rpveox0tVvdjAd?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/gp4mA9BOVX4y3_Bb4J0I7UYKIefhMyNis7M2cCnKR-fYJFsU0aHH6a7Shus-fQSrev8-pIrefE-t_9_3dFFvdpLSV5TMRB-5korgbPe5avQCwVdVCxjH51q4tmQKZ43gsFl9fP0rxTwULBpmzj1a4CLtBUcpUEz5FLUywDjICC759a2uWL8bFQHxforuyRow?purpose=fullsize"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Unfinished Obelisk",
+    "arabic_name": "المسلة الناقصة",
+    "city": "Aswan",
+    "location": "Aswan Quarry",
+    "historical_era": "18th Dynasty",
+    "builder": "Hatshepsut",
+    "description":"The Unfinished Obelisk is the largest known ancient obelisk ever attempted. It remains attached to the bedrock in the Northern Granite Quarry of Aswan, providing archaeologists with a unique insight into the techniques used by ancient Egyptian craftsmen to carve massive monuments.During the carving process, large cracks appeared in the granite, forcing the builders to abandon the project before it could be completed. Today, the unfinished monument clearly reveals the marks left by ancient stone workers and demonstrates the remarkable engineering skills of the Egyptians.The Unfinished Obelisk is protected by the Egyptian Ministry of Tourism and Antiquities and forms part of the archaeological heritage of Aswan. While it is not individually inscribed as a UNESCO World Heritage Site, it is recognized worldwide as one of the most significant ancient quarry sites.",
+    "images": [
+      "https://images.openai.com/static-rsc-4/DqAgrfEmlRLjKsGFPJChIGjUh2l52YWvcZcCPUCS2wE82PyAajVuHgoKrxLzRkDVkq4yrm-63TS36PN6f83vN_18N_Z2NVP2RuYoPLSR-nmBqnntuiL_p-Dn2hc0chzxNpt3W4H8IcAN-Z8d8wHimCP3k3Fmk_i4b7XtHkJ4nGMS5lcvKOaFkX7xSoIhtjnU?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/J--3pezo1aSeGiZsHrpJKEJ--jPtAG8taBYg19kSxcyxtZpqK_C0VSHW2RUgVxZkP052cHfdaQpH04je3rzwyh7SQP1depS1fXkrrywWFF3AGg-3SdbRpBsvYK67RgivxoaSBIxkTL7JRJbJ8IQwc6T8UAOye5LChfxyQ_tGEOevbLvV8JbX2CTI_3MnZ6Gm?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/kohYj5Sb_FaIzWWBbWxUbL4CLpur4CICAjoRA7CCBWDYXnqNBiOM29G9cB-CgyBJ98L1UaecT9qSAwzKWMT9RV_lN_u8huQzuBeRYSrrdH0XdhjPxvA10nlhc1lFzlBpUZPlUz7jtLyYlPzgzuwEL3xGFMR1NAl-arXhxFpRlAy0NRaYPVRT18XWr_f-gBwQ?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/ZTv8gA3wrlmNagRTga_DBaGLoOca0YbS5Z1tRsBv2DqOmuicg1z5ZoXpoIREfN4SxmPeKX0JybfPGBwNPVwL1nxJiYpxXWGtAY1NXMuxeO_noWvTYZaBKe-pfKJbyxqY_aWP9_gl6CaSiPAhIR3pvskb-4leBE7XFhbsfGj2PQ1AevCh7iUe_2V7t0RCgBJT?purpose=fullsize"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Senusret I Obelisk",
+    "arabic_name": "مسلة سنوسرت الأول",
+    "city": "Cairo",
+    "location": "Heliopolis",
+    "historical_era": "12th Dynasty",
+    "builder": "Senusret I",
+    "description":"The Obelisk of Senusret I is the oldest standing obelisk still in its original location in Egypt. Carved from a single block of red Aswan granite, it was erected in the sacred city of Heliopolis (Iunu) to commemorate the king's Heb-Sed (Sed Festival), a royal jubilee celebrating the renewal of the pharaoh's strength and authority.The obelisk is covered with finely carved hieroglyphic inscriptions praising Senusret I and honoring the sun god Ra-Atum, reflecting the importance of Heliopolis as the principal center of solar worship in ancient Egypt.The Senusret I Obelisk is protected by the Egyptian Ministry of Tourism and Antiquities as one of Egypt's most important monuments. Although it is not individually inscribed as a UNESCO World Heritage Site, it is one of the most significant surviving monuments of Ancient Heliopolis.",
+    "images": [
+      "https://images.openai.com/static-rsc-4/vFwOjXaPBQVJ2Jqi33NUhxOvgCBnuFJ4lnyBoNe_u98TzGhRohmStv_vJI_fUYMDExopLrka0UHM-W16JvvB8h1Vqp8n-O-VR3iZ4GGqN1FbtDHnbkBlhVj52eKnN2XVObFFvoRr-slIkFfnEFAurq0Lj4GZrDpCxChP2X_M3hAIGxKmr7-VGRgz0iNnZx7k?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/aaW6ohrD_hScZLuP3Xvq9Hbm5rFsi2xCU4pf9SGvsMqLnBlf54KxEYpvWZkTN9fBNaxaxFcZLybf4dDRb6Hsdczyt_o0n1rTb5ElnWlc-7t3g0obg0fd6kgONwOvG9CF6NFQuqgtVBTaIoDpWZLEflZFiyHmdWVZOxfkMelQDOImizAGf_hmWThJhJH-N2N0?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/45OkfJ8pWtWRlw5qLWB_8Eseg6--YLzSeprfFc7gvrID4F48mvzAr3seMktTc98m4O_9Dfwo0Lw9Wxe0oL5qbV00tmAKoZReRtX24tktRUzg2HXGfjWtgCgbAISNRO5J0aSfGdltrwfQ1XXkRAU75pqdCxabwv4HwfdVy5CoZmnMhiSTN3RADtkgLgfWT4AA?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/I7FhpJax67DM3N6QPT66lFq2xa-bdsI0JBe8sgjRdunZJFqVVn877otsJE1OEeGDOehF9hP2P4m8W-BSxbh8SqzKDqvLFNVaaC0_mNQne_4AoOFdL33GQXOalybVWKYqWzg4K9owTRtkd-HpsEIfJVnIFEb1xVlhofujT4WDGb99D9QU1ux7nPCmRPsexaBB?purpose=fullsize"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Ramses II Obelisk",
+    "arabic_name": "مسلة رمسيس الثاني",
+    "city": "Cairo",
+    "location": "Tahrir Square",
+    "historical_era": "19th Dynasty",
+    "builder": "Ramesses II",
+    "description":"The Obelisks of Ramesses II are among the finest examples of ancient Egyptian monumental architecture. Carved from single blocks of red Aswan granite, they were erected at the entrance of Luxor Temple to honor Amun-Ra and commemorate the achievements of Ramesses II.Their four sides are covered with hieroglyphic inscriptions proclaiming the king's titles, devotion to the gods, and military victories. Originally, the two obelisks formed a perfectly symmetrical gateway to the temple.The Ramesses II Obelisk at Luxor Temple forms part of Ancient Thebes with its Necropolis, which was designated a UNESCO World Heritage Site in 1979.",
+    "images": [
+      "https://images.openai.com/static-rsc-4/MEScmBoDTR7RsCH82dVc-95OPIaHR6rXqqT0Iw1-zCnpn8cmvIorNqgqGjjwN32MhbHwDfeCdP7UZ7IfKzXrCuEV6XJY5BX98iW1YEaKtMzHYxYDF-nMWQ3Q_koy4nxVg40SyUlNZ19m1XxbrzcyFSEe1GDbL9D5l7aKfvlz27mMm1jwg3lOq08hSmQJu2gf?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/Tr4QC7t6VdNXGa4WPZe8UIAy5KLxBy1JJFR1vXNKokC3jHarQWZ0u6GwQNCe3SsTfX0jAwA9u0uXOezASaTM94sZ_VvhxIhHVGenZhIF32svaZBUnRVFDcTb9rOdW6FMIZkDy2e3QbuO-0MlSAbQlepl4yDVTiCaP5qr5WHIZ_fnipBLDJyOBjyy2Bk_ON0C?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/1hJeCtpDe8KGLSfCXIUBistGNbS0fBtey9_-uMDvjHAI7guyIKwpDWRPwktJP8CCOFcDsOvkMHPIzDJ0JWTT0tQBE2XyBwN1QyksipsFPV2ymO1-HPRIktlRiIqLq7pRJsVIaSVNQBfrtX0TXvki0W-MLtrTw9MPJ9LOAJV4zD71xMzm2JrQuTZPE2JIZuoH?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/GBM0rOzjZCrRt94ALS_5pRUnToMRizuRvYUepJEKfkchnyrq8OrX_pdbCkf70QHyKO0kRqSamBgvh_8GKIz-1JUU_HvwZYC_lpbmb7iJM-NoN4jxJYXBlJ9dq9S4_9WoKyqtoen5WkscBlZUDjj1Te-Z1igcFJzYwEvVZiUnJEcNIGa5ck__3u_mxyXNtNkL?purpose=fullsize"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Matariya Obelisk",
+    "arabic_name": "مسلة المطرية",
+    "city": "Cairo",
+    "location": "Al-Matariya",
+    "historical_era": "12th Dynasty",
+    "builder": "Senusret I",
+    "description":"The Matariya Obelisk was erected by Senusret I to commemorate his Heb-Sed Festival (Royal Jubilee) and to honor Ra-Atum, the chief deity of Heliopolis. It was originally one of a pair of obelisks standing at the entrance to the great Temple of Ra.Today, it is the only surviving monument of the once magnificent Temple of Heliopolis and remains in its original ancient location, making it one of Egypt's most significant monuments.Although the Matariya Obelisk is not individually inscribed as a UNESCO World Heritage Site, it is protected by the Egyptian Ministry of Tourism and Antiquities as one of the most important surviving monuments of Ancient Heliopolis.",
+    "images": [
+     "https://images.openai.com/static-rsc-4/fO_UmPFvqcWnDS5zeeh_43rGsoY6DlBIHNjVuB6eOXPOkEzSKJeNeIZtHCep_23IaOz463mk467o7CKhun9mR_Ib1uHFaJwWj37pD7Pm4eEu-wUKDBylRlLHGN_fBEtS8--WlrKP7MhbkyPPM0fJKkWQL8g5BDCoDYMukbXJhHT209_j4nva5_LhkFq_fPeC?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/I7FhpJax67DM3N6QPT66lFq2xa-bdsI0JBe8sgjRdunZJFqVVn877otsJE1OEeGDOehF9hP2P4m8W-BSxbh8SqzKDqvLFNVaaC0_mNQne_4AoOFdL33GQXOalybVWKYqWzg4K9owTRtkd-HpsEIfJVnIFEb1xVlhofujT4WDGb99D9QU1ux7nPCmRPsexaBB?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/AnCIOYXyoP4KEQczYu3LU38v2igM13cAGgztNpS0YfDYuaAAHrzrSAgAgyIAVt7dFp-3KHu_1Yq2NnJXKUfa-DYMxWGZ8PftSA77tEQKQ_zvZE9w3XyMk6HkQV6AHrQ2I88crhZcumg-Oj4XMO41JGPH5AO28YgG2so7nyFLKH-6_LQxiLWYbfhubM7EMCQi?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/Jr6EoeKySQtVxuAXcEf81vzsFoQruITtMJ9Axtfr_ND5kh58Tq4tDhdZM_NLXnacHOW1uU2pf-UDC0Zrmk1BUcFcntvwg9kYZuTjvnmEQS32keYoIV8rtJKtdxCfkW3H7__7FzD7Q0iL2FEOOZDJwCLpuyopDX6HCO75-u2PpON2R6g8Ij1zM72cPMxsVqBP?purpose=fullsize"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Karnak Fallen Obelisk",
+    "arabic_name": "المسلة الساقطة بالكرنك",
+    "city": "Luxor",
+    "location": "Karnak Temple",
+    "historical_era": "18th Dynasty",
+    "builder": "Hatshepsut",
+    "description":"The Karnak Fallen Obelisk is believed to be the companion obelisk to Hatshepsut's standing obelisk. Originally erected as part of a monumental pair in the Temple of Amun at Karnak, it later collapsed, leaving large granite fragments that can still be seen at the site.Its surviving pieces preserve finely carved hieroglyphic inscriptions praising Amun-Ra and proclaiming Hatshepsut's royal titles and devotion to the god. These fragments provide valuable evidence of the exceptional craftsmanship of New Kingdom stonemasons.The Karnak Fallen Obelisk is part of the Karnak Temple Complex, which belongs to Ancient Thebes with its Necropolis, inscribed as a UNESCO World Heritage Site in 1979.",
+    "images": [
+      "https://images.openai.com/static-rsc-4/RJn5AMwYNtIzE4NKZ7BcrxBP5GBndaLlxhD1vcnCzxJyz82O3h4TZlr-7kIkAhJxRdVjyimT87SqhIO5FGLoXTXT-3WwZ3EVPn412R61s-fViw6bidBQtZe-n1oF0cOH2_m_KI7vcUVxIwK75Rp3Yx_mr5WkmWFi4mejN7jtaBEyZEF3XV8hoYeR2XFC2fg5?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/rhidfYamy4fFJMYoTechIH96puRwUlQBDp59fV5UN9ZdsGvaKjJLLkLiDh-F344QhkshOQe5QrrbzsESuKWCjHwgGXIirueAKoHGnHdUX04drAhiStlg6AmqnDG2GxNH3AGm-fHXap5UXMx7PZd2ureRiR3VHq5jz0foM16QcmBHMsPgZTM562AYWk4T9-M7?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/hmfShKQ2OYWjb_t5cVdz61EEqprQ7F1Fy-ksJGL-ORAEBO9Ooc6-Y4nkJC5rTTZ927rG1K3yETf2th4DlEmeb8OdcH7kgYp33Nfc83_BUqjBevsZM8dRsN4vomLXVyqKvG3YQ-sb0gWLKFA9DZXKuicj5awYFnkdL82aEyCbcf5-wKKX6KIxGpb51Kc3DdK2?purpose=fullsize",
+      "https://images.openai.com/static-rsc-4/4kCr6WZwNr5fAuWPdGOoX8ir_ypJ_iLKpjY59UNcOfqQs82mISy_G3izksUCWATz2FGRsWqN03YF0OdjNwDIFqTgU09TcHngrtwO3G4lGl6VnzU746wUNO8Hr45PQpxWaTWq8TkS9geNUcAjFpKqGQsVRnX6bEcBJvvnoyXvT9kYSjIzmyHq_r-Li_tf2ubq?purpose=fullsize"
+    ]
+  }
+]

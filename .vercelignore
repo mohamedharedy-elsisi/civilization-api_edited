@@ -1,0 +1,24 @@
+# AI inference is deployed separately.
+ai_service/
+routes/predict.py
+services/
+uploads/
+weights/
+
+# Exclude the stale nested application copy. The Vercel root is this folder.
+civilization_api/
+
+# Exclude training assets and generated files if added to this repository.
+datasets/
+dataset/
+runs/
+train/
+**/*.pt
+**/*.pth
+**/*.onnx
+**/*.engine
+**/__pycache__/
+**/*.pyc
+
+.git/
+.vscode/

@@ -1,0 +1,130 @@
+[
+    {
+        "id":  1,
+        "name":  "Hatshepsut Obelisk",
+        "arabic_name":  "مسلة حتشبسوت",
+        "city":  "Luxor",
+        "location":  "Karnak Temple",
+        "historical_era":  "18th Dynasty",
+        "builder":  "Hatshepsut",
+        "images":  [
+                       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Karnak_Tempel_Obelisk_Hatshepsut_09.jpg/960px-Karnak_Tempel_Obelisk_Hatshepsut_09.jpg",
+                       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_159.jpg/960px-Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_159.jpg"
+                   ]
+    },
+    {
+        "id":  2,
+        "name":  "Thutmose I Obelisk",
+        "arabic_name":  "مسلة تحتمس الأول",
+        "city":  "Luxor",
+        "location":  "Karnak Temple",
+        "historical_era":  "18th Dynasty",
+        "builder":  "Thutmose I",
+        "images":  [
+                       "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Karnak-obelisk-thoutmesI.jpg/960px-Karnak-obelisk-thoutmesI.jpg",
+                       "https://upload.wikimedia.org/wikipedia/commons/7/7e/Obelisks_of_Hatshepsut_and_Thutmose_I_at_the_temple_of_Karnak.jpg"
+                   ]
+    },
+    {
+        "id":  3,
+        "name":  "Luxor Obelisk",
+        "arabic_name":  "مسلة الأقصر",
+        "city":  "Luxor",
+        "location":  "Luxor Temple",
+        "historical_era":  "19th Dynasty",
+        "builder":  "Ramesses II",
+        "images":  [
+                       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Paris%2C_Obelisk_in_the_Place_de_la_Concorde%2C_July_22%2C_2008.jpg/960px-Paris%2C_Obelisk_in_the_Place_de_la_Concorde%2C_July_22%2C_2008.jpg",
+                       "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_01.jpg/960px-Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_01.jpg"
+                   ]
+    },
+    {
+        "id":  4,
+        "name":  "Unfinished Obelisk",
+        "arabic_name":  "المسلة الناقصة",
+        "city":  "Aswan",
+        "location":  "Aswan Quarry",
+        "historical_era":  "18th Dynasty",
+        "builder":  "Hatshepsut",
+        "images":  [
+                       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Obelisco_inacabado%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_153.jpg/960px-Obelisco_inacabado%2C_Asu%C3%A1n%2C_Egipto%2C_2022-04-01%2C_DD_153.jpg",
+                       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Unfinished_Obelisk_Aswan.jpg/960px-Unfinished_Obelisk_Aswan.jpg"
+                   ]
+    },
+    {
+        "id":  5,
+        "name":  "Senusret I Obelisk",
+        "arabic_name":  "مسلة سنوسرت الأول",
+        "city":  "Cairo",
+        "location":  "Heliopolis",
+        "historical_era":  "12th Dynasty",
+        "builder":  "Senusret I",
+        "images":  [
+                       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Obelisk_at_Heliopolis.jpg/960px-Obelisk_at_Heliopolis.jpg",
+                       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Obelisk_in_Heliopolis_Obelisk_of_On_%28titel_op_object%29%2C_RP-F-2001-7-38-7.jpg/960px-Obelisk_in_Heliopolis_Obelisk_of_On_%28titel_op_object%29%2C_RP-F-2001-7-38-7.jpg"
+                   ]
+    },
+    {
+        "id":  6,
+        "name":  "Ramses II Obelisk",
+        "arabic_name":  "مسلة رمسيس الثاني",
+        "city":  "Cairo",
+        "location":  "Tahrir Square",
+        "historical_era":  "19th Dynasty",
+        "builder":  "Ramesses II",
+        "images":  [
+                       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tahrir_square_obelisk_2022_04.jpg/960px-Tahrir_square_obelisk_2022_04.jpg",
+                       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tahrir_square_obelisk_2022_01.jpg/960px-Tahrir_square_obelisk_2022_01.jpg"
+                   ]
+    },
+    {
+        "id":  7,
+        "name":  "Gezira Obelisk",
+        "arabic_name":  "مسلة الجزيرة",
+        "city":  "Cairo",
+        "location":  "Gezira Island",
+        "historical_era":  "19th Dynasty",
+        "builder":  "Ramesses II",
+        "images":  [
+                       "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Tanis_obelisk_in_Cairo%2C_on_Gezira_Island.jpg/960px-Tanis_obelisk_in_Cairo%2C_on_Gezira_Island.jpg"
+                   ]
+    },
+    {
+        "id":  8,
+        "name":  "Seti II Obelisk",
+        "arabic_name":  "مسلة سيتي الثاني",
+        "city":  "Luxor",
+        "location":  "Karnak Temple",
+        "historical_era":  "19th Dynasty",
+        "builder":  "Seti II",
+        "images":  [
+                       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Obelisk_of_Seti_II_in_Karnak_01.jpg/960px-Obelisk_of_Seti_II_in_Karnak_01.jpg",
+                       "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Obelisk_of_Seti_II_in_Karnak_0081_b1.jpg/960px-Obelisk_of_Seti_II_in_Karnak_0081_b1.jpg"
+                   ]
+    },
+    {
+        "id":  9,
+        "name":  "Matariya Obelisk",
+        "arabic_name":  "مسلة المطرية",
+        "city":  "Cairo",
+        "location":  "Al-Matariya",
+        "historical_era":  "12th Dynasty",
+        "builder":  "Senusret I",
+        "images":  [
+                       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Obelisk_at_Heliopolis.jpg/960px-Obelisk_at_Heliopolis.jpg"
+                   ]
+    },
+    {
+        "id":  10,
+        "name":  "Karnak Fallen Obelisk",
+        "arabic_name":  "المسلة الساقطة بالكرنك",
+        "city":  "Luxor",
+        "location":  "Karnak Temple",
+        "historical_era":  "18th Dynasty",
+        "builder":  "Hatshepsut",
+        "images":  [
+                       "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Karnak_temple_complex_4.jpg/960px-Karnak_temple_complex_4.jpg",
+                       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_155.jpg/960px-Templo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_155.jpg"
+                   ]
+    }
+]

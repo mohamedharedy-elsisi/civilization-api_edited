@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "name": "Grand Egyptian Museum",
+    "arabic_name": "المتحف المصري الكبير",
+    "city": "Giza",
+    "established": 2024,
+    "description": "The Grand Egyptian Museum (GEM) is the world's largest archaeological museum dedicated to a single civilization. Located about 2 km from the Giza Pyramids, it showcases the history and achievements of Ancient Egypt from the Predynastic Period through the Greek and Roman eras. It houses more than 100,000 artifacts, many of which are displayed to the public for the first time",
+    "images": ["https://images.openai.com/static-rsc-4/f5Arr3VGpz2uouwghlO2gaYRHUvgk60oiT3_dAqAcPhYBi1ZB5UcW1MK3YnMAuE5vLhMnxm81xwpDa3g9YP6lvDRbN2wLNDvxxH1UcFkOmJo3qGVtSUKVnAMVwHcVax5a2D-8Zsy_2vmJLCFWBIaDsc2P5C-E39d-5TQpx-yVCY?purpose=inline",
+  "https://images.openai.com/static-rsc-4/__NSuf3yGdLk1hMYRXStpMJloWD85U5ClH0VHN320wpQEMLgAZtf5IPalrYDx9J5AYqxl7-K3YcH-3Tao_4ughpDuOoLRxqeFFSvt0J6cSgVoonbIpHdljtpHb9wtVr7ErpH8BbnUV4InQC_i_AmXqlGv1tosNuR3s-iEGyv5NI?purpose=inline",
+  "https://images.openai.com/static-rsc-4/Ig8Iumjf5P5LbsGq-p_3TSLn7aYppIbV31WDmIfzMuu6CHlBKusKXpL34_zKHpPZME2DXUWZc1spM9eRrIgmUYvTPwcZdxWvdnMS1N-BtM8Av-DGRbSnz83CJNvYS1kGc-wGJwyYTnErfruHz46rrrxjunKSdA8Y3v4FPItFaObp9HxfbPe9akrnYRvT0UsH?purpose=fullsize",
+  "https://images.openai.com/static-rsc-4/Gb-tTjTMRlaujwZfkfyRX1-iPB2Gry43r3B4z99XoB3twEjlNwkoii1X6tSeuF6DAXiG5yvb9PfBjI4c9152M_jXNpAVGosRLki7uIw4bmBoSg7RgkvMbhJJdPPMC6PxtVeRIi-7FnWId9IQl9zUaOO_N3bEJa46iZQVC7lV2Npk0gOiSO0CEQr-7DBvgjsQ?purpose=fullsize"],
+    "location": {
+      "latitude": 29.9884,
+      "longitude": 31.1342
+    }
+  },
+  {
+    "id": 2,
+    "name": "Egyptian Museum",
+    "arabic_name": "المتحف المصري",
+    "city": "Cairo",
+    "established": 1902,
+    "description": "The Egyptian Museum, also known as the Museum of Egyptian Antiquities, is one of the world's most famous museums dedicated to ancient Egyptian history. Opened in 1902, it houses one of the largest collections of Egyptian antiquities, with over 120,000 artifacts spanning more than 5,000 years of history.The museum was designed by the French architect Marcel Dourgnon and officially opened in 1902. For over a century, it has served as the primary museum preserving Egypt's archaeological heritage and remains an iconic cultural landmark.",
+    "images": ["https://images.openai.com/static-rsc-4/oehNHalIF66bJ4CPtDftn5aeSGn_YkPS-6exL-d-DCJr-SP0ZbPeZ4DQukG2fZyqw200Ml7HfZC4jadfNx6cvKz04bFpj5e-4o3C9UysdhQTTrQ1bhDOffqRn_L9yoeAVYt21nBPZl3DBX2r9p1K-UmRi4fn_lmOiqBP6e2U-5r3ia88bAJX0-57RbFi-jrg?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/ctE9mQcWIDd8rQ5uI-mrremnltVIh5j_GNj0gUDvVBhJfFGDGnCSLm1DXZBti45GqprWjErrwOidUkkh8O80nUwcp7RQsxK4zV1JNS9jfu8abhXFpR7MMwVVR4E_hXdKR1ElFj-uGwL47ZO0Hk35qEvfHBqleBV70oYIQaxbNJ7qC_t6Fmdt_EiFmokRak9z?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/tfqmG0TuC-R5x5szS1MnTEHKl6jpH2y0LxlEnRhep6URonG7rQG7C6f6mi-dfWvVtKcUMIalxpGBPtdM4pBR8DJ0NGfJisgO8nQpTl99wNzZuLI-bR_IbQLJJSrSkVUAzkYgP5jQUCZYTM03s4jjbDxVdw34ikn8D5ZCIVTQFAbak6HDeYB-artWNUncsgtk?purpose=fullsize"
+    ],
+    "location": {
+      "latitude": 30.0478,
+      "longitude": 31.2336
+    }
+  },
+  {
+    "id": 3,
+    "name": "National Museum of Egyptian Civilization",
+    "arabic_name": "المتحف القومي للحضارة المصرية",
+    "city": "Cairo",
+    "established": 2017,
+    "description": "The National Museum of Egyptian Civilization (NMEC) is the first museum in Egypt and the Arab world dedicated to telling the complete story of Egyptian civilization—from prehistoric times to the modern era. Located in Fustat (Old Cairo), the museum presents Egypt's cultural heritage through a chronological journey across thousands of years.The museum partially opened in 2017 and was officially inaugurated in 2021. It gained worldwide recognition after hosting the Pharaohs' Golden Parade, during which the royal mummies were ceremonially transferred from the Egyptian Museum in Tahrir Square to their new home at NMEC",
+    "images":["https://images.openai.com/static-rsc-4/Nyi1RJG1xDe2VRLQA-vpkx2TPdjAM7zg-mEdSffxXvg8zsV4iweowoG9fvPJ8--53BLuf1vmrOZV2DGdllPyWALmC-h9kRX7pnIdBp3JZeOCJKXRCOBW4pf3iB9WITDu_MXYn1W4e8gEZBVDMGBX8XdNCzUUJbBppfE5xbw8raeI6Fj10d3wWGp8VQlYAVnD?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/EM7Ik9VZm-iTcPna6U0ELPvvXvuv84zOollLWYW4e63tDhGGPlCohTxIAoKp0CHXaOg7zBkle8R51oYMT-8m_tOPPY44-FbjnMcOVzcdVZLNYMrMGSfwQIDJGeY28rOZr2_HmfTgkPVK7N5Nz3BdpZWFCq2wV6-Mhz8TGwSsXqfZPKKr_lS3MZb93GQyQjBx?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/-KkWtpYcQ9sbNyHcAODFx_XCPmrvfO3xoXhmgQRFq7C6HRCrCBU2ou8c0iByVVaZGPGI417pjZb-A9hn2Hc5Q2AMKM9-pZz27JRdbEyLaOhSlU0pLW-jaQJqxH8tEvlPgZbKSHPppuWUfE5iJbJTKj0jiW3yvrrpq_mXsHk3lqBR1dqIoDFY_yytYDWO7gSk?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/4Y6zgOg7IFBmFK1CWbb_GqsyydZmyFBJfMnF_ChYZ8pSXy0773iv7ja-IDfpwCKo1df6vppBA9jQ4hxa-QavLLAkBUnXDwzN4R7GKUyRjAjW0CJ4W4OQpclTyMtwXN-KjOS21AIjDJTeyqZap0jkEILNav9_pbcKUNbmQqLzOk_y50eRW7sHzwkY2P9NlNZC?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/phCYCUoEDSxbZkOLtKOtHPvELDl8m0ijtS5dyDLXGDLVmLuGlSBMkTY2pfVg3x5pf5e7aeUL2AHpylFDiPR4Ry34L8zFNi-J1tvR3RXdvkK4EJ8q_YMddjYxlA1mEmVHXRFGsGdFUDWobXLxKB12iw6i3KkxGfweMMFd4ApMYRJdWcY7U_AJLbJwRxHKRuhz?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/5WJxktyIO6GsN5CFH34KShwLh9C9fuxAmJT68Cr9Ycqe-0tWggsW27ZfWwABytsPuLNzCTrCIJJcPkwQ_6O8AP2TKOR8C8P2rfKZc-7wZYNRu-LECPhEXtIFF59iMcMvYRXC1hPm8WJDNEPU_6q3nQWauwrYDNpAr8nbOX-uHgjs-K-HETd4VxNltEgmjZSY?purpose=fullsize"],
+    "location": {
+      "latitude": 30.0078,
+      "longitude": 31.2487
+    }
+  },
+  {
+    "id": 4,
+    "name": "Luxor Museum",
+    "arabic_name": "متحف الأقصر",
+    "city": "Luxor",
+    "established": 1975,
+    "description": "The Luxor Museum is one of Egypt’s finest archaeological museums, renowned for its carefully curated collection of artifacts from the ancient city of Thebes (modern-day Luxor). Opened in 1975, the museum offers a high-quality, well-organized display that highlights the art, history, and culture of ancient Egypt.The Luxor Museum was inaugurated in 1975 to preserve and display archaeological discoveries from the Luxor region. Unlike larger museums, it focuses on quality rather than quantity, allowing visitors to appreciate each artifact in a spacious and well-lit environment.The Luxor Museum provides an intimate and informative experience, showcasing masterpieces of ancient Egyptian art in a calm setting. It is an ideal complement to visiting nearby temples and archaeological sites, helping visitors gain a deeper understanding of the civilization that flourished in ancient Thebes.",
+    "images": ["https://images.openai.com/static-rsc-4/9L2Hd_DElLIV42qtUf619qgareRNsD_ZDO1dGxL_9yTj8Gfi-44Ub6704gIiLeStiwvLuE6aXmu6fLQlyX-hHSDrJMRa_GePJsF0sOmfa8jwl3esuCEO0TqSJZpIx90ozp66vMQYQAA3jpNKkHxiujC2aoS2rq3t77RuKyk-v3naBGo3ubX55OwgUM8WGuX6?purpose=fullsize",
+  "https://images.openai.com/static-rsc-4/jdMcznmTT7ZW56R6mCEUl--OdRNguGAJgFBewe5zp7iL30IO_rTNLlsLcsbIVKNBoyc4XpEyKfNDf_fdfuTPrQI8ChmpB7EqibM2FNSEVlpMINOGPCaklGiKhtXPAUaLU8pO4YBFb7KrexLiVDl6gfEk5HPRAtYMrxXB8j7_8YeE5ad_aS5TH5e_vxnruWOw?purpose=fullsize",
+  "https://images.openai.com/static-rsc-4/jiOve6jjnfABCTNvdktggpbQa9LcCllHOvisG9PFHfnCtmKmxrKOCYCwav-Io1oXUkjJ7A4R2UT7xRTHFb9lOCy9JNX42QkLH7OGZDWZFEd00JYsWhEYNe8xCNt7lSQaBVJaQ_9A8KRYGrLQEU-JxCemPrjOwoRweLX_mUdsfCbMd005meDG-J-AL5mEcgwG?purpose=fullsize",
+  "https://images.openai.com/static-rsc-4/jdGk3dCG0v2b-5E02YHjf5-y0wN3LZRoIJf_tSB108K2J0NQKlKdnjQyeZTvICHb07dNrZaatGVk3dyuMtsbG4cYnsMC0HCG7WHgr9mUMPdhs8Jqs2cn5Dfy6H2VitHvWuGRCwrbi_PZtgvDNaK9IKr_Wisk0yTrUV6XriYE-cmbtAGeIhFjcjWPTW-yH3xl?purpose=fullsize"],
+    "location": {
+      "latitude": 25.7074,
+      "longitude": 32.6396
+    }
+  },
+  {
+    "id": 5,
+    "name": "Nubian Museum",
+    "arabic_name": "المتحف النوبي",
+    "city": "Aswan",
+    "established": 1997,
+    "description": "The Nubian Museum is one of Egypt's most important archaeological museums, dedicated to preserving and showcasing the history, culture, and heritage of Nubia. Located in Aswan, the museum tells the story of the Nubian people from prehistoric times to the modern era through thousands of artifacts and interactive exhibits. It was established following UNESCO's campaign to save Nubian monuments threatened by the construction of the Aswan High Dam.The museum officially opened on 23 November 1997. It was designed by Egyptian architect Mahmoud El-Hakim, while the exhibition layout was created by Mexican architect Pedro Ramírez Vázquez. In 2001, the museum received the prestigious Aga Khan Award for Architecture for its outstanding design.The Nubian Museum offers a unique opportunity to explore the rich heritage of Nubia, a civilization that played a vital role in the history of the Nile Valley. Its combination of archaeological treasures, cultural exhibits, and beautiful outdoor displays makes it one of the finest museums in Egypt for understanding Nubian history and traditions.",
+    "images": ["https://images.openai.com/static-rsc-4/L6ysWsOHViY8WPHfTvtEB9q8AqlIoi3VfVjRJAXuXoWM9u09g4Wvmw365lJj0tecp5yykXALQEq96NjDsbZVtUVAfqkme65zEqp4EG18YZEU5LshIaOVuUuTLKq3RwXmzgBY3JsIz7qgzRCH7RKwkM3b3cPXmLHNfvAI8wIpFg6dlxsp_ME0QKUNqu8gMCjc?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/0XeNk20TUH9JaHwCmURERHDR_498P7vBCzmc5kv0JNHAjydbkq2HHH6IULTQa4FPCnseai-4zvOvQT4iFcCNwF6IFYTOZ3F_nDtPxyTuHkiVCupLQpMitbfKbxYhU7OMNOnkJx4G9GrxOoSamhzimrDrl8vZzHyEitySkuOh-q0jwaUA7aF-72vnCZnfrlwQ?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/gHEKO52Cwj3Dg7uJFaBNCyxgL8Tb2wttFKFHqLhGUbjtBtWWZOO8ncfQD83tGPtAe1ikeIQlYuq7qe48rkn28nIPTIld4eqnajynBLo1Qv-PgLVHxvhSi5JfejGamWaX4Q9L-kL4yTRVErCvRvboP-WeQUbzMSEXD2lb6nWXmxp1zP59Whl0gWLuq3yTMT27?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/KLAxZnBywFyRMA8a7U7jaT1MLw927wtNuuVPc_CYOlEMjwSMoI5SNx-Fpt-tgxuY1YpA4CHnHbhcOlXPiNgL_0vHy-GQKNzuJgvzRPAd6MJZmAqs_K4eWqmMhhawM0DYHbUPwBtK9usPfRqBT5QOLX5oSMV7Dy6MN7VMuWbsNdLYCOehTk8PpHd_nxB0bUeX?purpose=fullsize"],
+    "location": {
+      "latitude": 24.0818,
+      "longitude": 32.8872
+    }
+  },
+  {
+    "id": 6,
+    "name": "Museum of Islamic Art",
+    "arabic_name": "متحف الفن الإسلامي",
+    "city": "Cairo",
+    "established": 1903,
+    "description": "The Museum of Islamic Art (MIA) in Cairo is one of the world's largest and most significant museums dedicated to Islamic civilization. It houses an exceptional collection of artifacts representing over 1,400 years of Islamic history, with objects from Egypt as well as countries across Asia, Africa, and Europe.The museum was established in 1903 to preserve and showcase the artistic and cultural achievements of the Islamic world. It underwent a major restoration and modernization project before reopening to the public in 2017, featuring updated galleries and advanced exhibition techniquesThe Museum of Islamic Art offers visitors a fascinating journey through the artistic, scientific, and cultural achievements of the Islamic world. Its outstanding collection of manuscripts, ceramics, textiles, and metalwork makes it an essential destination for anyone interested in history, art, and Islamic heritage.",
+    "images":["https://images.openai.com/static-rsc-4/y1HiWGog57dv4r7Y8NePJNelfVFluDDungUWj_2qdWYn1W7BgPbePtYhT8KlbPVCoAazE6SPDLkzVTcAxrNwbx17ANDdicOEENjDT2bgyyn-gGfvwkBoAd4DV77EDxWDYVfSwKel2Tuob14JRD1AU9oWxyWWrKYrMQmFV2WwgUd0Qb4hrLpZ-OYffPwGh4Fb?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/J6tQcOSDVWIYrbKLEulP7v2OqZFnvrQDH_H70KTXNX9YR-D47Ms5JbmcS6JR4ivyKYv0JvE9hAQAGXVER8gNylVHkj79zR4-QtQ8jbkGsVDDjVMvqZS8sMg7WbCqmlXX1lH1BpxXtJckHPZUnZNx4Z-iltiR9uVenMcKQ16n4FKTXwxghM4hJctQ7PRTQFSH?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/5G37UIjIO4_WrlKjhF5xeTwaLLctd8_GKaFBNzdfLafa9PTX09CnOo88KFc2F4J_Smabikx-2VIZPE6N51TwiEJrs7x3Ngu-DHXRDFiWqYvoBuyvMezsiF3BBqZbAlCkhPxh9FNL1Bs3HhuU6bX6Ufwjrzd1GUWtlYVdsFOi61Y4ZGl_b_Ex4Pw90IqGK5Pq?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/knFz6-p_5r7ziIlmwG3OW2X_g-JQ1EycxMWm-ut4u-PQQtxwjyeWxPTvpc3YL075rAaFn6g6-okMJ-2HBqO2uu3-3uUWoTjm7sa1tQqDgRnJKy--_-fQcdpr4CzqBnFWs4c5WICXNCo4qiD-FsdKqNJKPBuSO9Rmq_4AqoLJzH3Z3E2bA8tXosGAmoYT1hZA?purpose=fullsize"],
+    "location": {
+      "latitude": 30.0444,
+      "longitude": 31.2554
+    }
+  },
+  {
+    "id": 7,
+    "name": "Coptic Museum",
+    "arabic_name": "المتحف القبطي",
+    "city": "Cairo",
+    "established": 1910,
+    "description": "The Coptic Museum is the world's largest museum dedicated to Coptic Christian art and heritage. Located in Coptic Cairo, it preserves an extraordinary collection of artifacts that illustrate the development of Christianity in Egypt and the transition from the Pharaonic era to the Islamic period.The museum was founded in 1910 by Marcus Simaika Pasha to preserve Egypt's Christian heritage. Over the years, its collections have expanded significantly, making it one of the most important museums of Coptic art and archaeology in the world.The Coptic Museum offers a unique insight into Egypt's Christian history and artistic traditions. Its remarkable collection of manuscripts, icons, textiles, and architectural treasures makes it an essential destination for anyone interested in Egypt's diverse cultural and religious heritage.",
+    "images": ["https://images.openai.com/static-rsc-4/RC-IfpoY7ywouYDx41V0oglL73gNgNh6uOhA1qUFznDf3DdcuZVASvd3PsxshDKo-btZwZ6bHCDpclDDXN9AEu1F0TSZvo-vb6G_i05S2zHu2CHTVehcn_N7HdWdRocbEoJEo2UYYPDGi9mgs9hpJkDb-WlTIUrJXsgXZfZ8rC_gwIX24yxkE-vi9GBEPvPa?purpose=fullsize",
+  "https://images.openai.com/static-rsc-4/1a_cxUeE1NSu1DGZEmW4uXfIaNymY9Fg5PpPW2qNvOPV_bMWWQRZ3g3-cbIgyC1ZyuvoTjZwbQqrCNadiWoyzwSrSO0vBvjuT8AOTEbJSt3vaxjeqSDyjnzt-rkjfybQ9YEP1xeTDoOGuu5AQ9A7RaTF9G2YIp8UCxqg8N1WbP93DjcZUE84cQbA_73dGJDw?purpose=fullsize",
+"https://images.openai.com/static-rsc-4/HnUqQ-l1G4JSGRMclrBAyBYNKf3Vouj3NwzzlLACp6Wq2kfr7XoifN1PZyTRGP2lJ27sp4m75TFE348ZPNbAN6my9Xw2YSezRMYjp1XlVtNwyHNK42TPkz4q5122UjKL7jFd1RxazZ4dw1Mur10BiCIxiFp9fra80_-eJ_A02UoE1D4LcLlgB74JjBoPUvBq?purpose=fullsize",
+"https://images.openai.com/static-rsc-4/vMNM-HcFYOAAWM3uJvThlGBR1Sf-CHaW892hM5Xd5ZKhZnbpS3s8Sb_kTT5vCVCEVRX9d90HCsLfDHJdiKlArhwI6vU3o3UKE3CFMCSUA3x-4iC_C6FVPYE_NT47xsjWa4YLwUHxsVH93D-BFvqT5eYR63fQH4VvEODah0z0pT26qB9mBssjBiOuDfsh8Vmf?purpose=fullsize",
+"https://images.openai.com/static-rsc-4/jMI3ZFdzA1SX6xXvrojUYbmTsxXjDiqIKnJoIXnRN0W3koq5Lh0CSi1MB5eZrwovbii77uiZ4yHieQ5Vfw8uQZarvqWA5_yp-GREKYq7EWm0gdTbuCLQ97YNJe8j8sK-oBinXc0kpiRmhDZ7jgYGi-d0EPDsEZkulKWcPNk3evOjoZsp8AE9zRZb4qSFRzpJ?purpose=fullsize"],
+    "location": {
+      "latitude": 30.0067,
+      "longitude": 31.2303
+    }
+  },                 
+  { 
+    "id": 8,
+    "name": "Royal Jewelry Museum",
+    "arabic_name": "متحف المجوهرات الملكية",
+    "city": "Alexandria",
+    "established": 1986,
+    "description": "The Royal Jewelry Museum is one of Egypt's most elegant museums, dedicated to preserving the priceless jewelry and personal belongings of the Muhammad Ali Dynasty, which ruled Egypt from 1805 to 1952. The museum is housed in the magnificent former palace of Princess Fatma Al-Zahra and combines stunning architecture with an extraordinary collection of royal treasures .The palace was built in 1919 as the residence of Princess Fatma Al-Zahra. In 1986, it was transformed into the Royal Jewelry Museum to display the confiscated treasures of Egypt's former royal family. After extensive restoration, the museum reopened in 2010 with expanded galleries and modern exhibition spaces.The Royal Jewelry Museum offers a fascinating glimpse into the luxurious lifestyle of Egypt's last royal family. Visitors can admire dazzling jewelry, royal memorabilia, and one of Alexandria's most beautiful historic palaces, making it a must-visit destination for lovers of history, art, and architecture.",
+    "images": ["https://images.openai.com/static-rsc-4/1r99kg8tPT64JWG9trGdmIoAM3NoEhYjab9vpgxujkGgtpnVDZ7Zv6MGM6qjOyiEiMwaSQSoqt7F01nSHb-ZtnMUiN-JyxrWm01pOj2Z08ghr_MnMTf2IjMruzf3S8V9NYgqntdpSwJ1u3mspk-DB_xwsp2_-mTuRajnqs269FcIdbS-3LLXgf-SxDZdvRQW?purpose=fullsize",
+  "https://images.openai.com/static-rsc-4/1gN_8Upxx7Tlm8IKBEBK_FvbH0G5H00H1ha_oYcgcDNY4nZwtMWXHX79if6aZr4mPimmOjQOfcnC5LssmC3pvsAE9s5_XyE2_F2UaA546lp-ZYCJoTlNN-MiDFRXebc2e7vz3kI2QrTV_m73cW65sAp4OW7peLRWGDtyiBVuORrj31cxFmCJBp9479QCXLXD?purpose=fullsize",
+  "https://images.openai.com/static-rsc-4/u258V8Rlv46jOTXCjDO_VSojaPTPL-4gPedQ3S88KnPVBqs03RNlcmrt7TU34qKIKOwhrvWhrwqOaVIPk7YSL3tzAY8aau6x3ArDUhA6Dg48rKhtddFUYH7NE-2p2Xw5f6iTMhZMqOPQkaGbxP6JYJUb0FxWr6zXfwHssQVZQQ3vZZyuZzgFgpFICCl0JqpD?purpose=fullsize",
+"https://images.openai.com/static-rsc-4/XyikQ5o3bATNBgNTUdNu9SK6xlmwY1lXy2gJyLaB2aO1W3Pv9RkYRmmcS1is9G77iiiIp4JE8le-a9GG9zKGRkrzjDpx50s1DxYQFptn4uUlCWEOoOkEO0tkE12U7aVswkVrnPA0I-vXOhNYgovd1MYZZURsQvHcC9E0k-Bz_SsU6cUbS91RgNUsW03k2vTx?purpose=fullsize",
+"https://images.openai.com/static-rsc-4/9vWa2B3sh5faA_KzuIHHDjGh4tThwJIPjQbxSi-2rZRvzeXugK-04lf0F1LvYPiiubAen7kQe7_Y2kr98UrINRAJlPPOr2vNpf_8sZ7gz9YM4WqDv30gj7zOMSOPfwY_1V9zBfsq-6JfCyQFeLqZCIH9yItBGLu-hyErMQc7TkSeI_aEI86j429jkBqBZrC5?purpose=fullsize"],
+    "location": {
+      "latitude": 31.2456,
+      "longitude": 29.9667
+    }
+  },
+  {
+    "id": 9,
+    "name": "Greco-Roman Museum",
+    "arabic_name": "المتحف اليوناني الروماني",
+    "city": "Alexandria",
+    "established": 1892,
+    "description": "The Greco-Roman Museum is one of Alexandria's most important cultural landmarks and the only museum in Egypt dedicated exclusively to the Greek and Roman periods of Egyptian history. It preserves the rich heritage of Alexandria during the Ptolemaic, Roman, Byzantine, and early Coptic eras, showcasing how Egyptian, Greek, and Roman cultures blended over nearly a thousand years.The museum was founded in 1892 through the efforts of the Italian archaeologist Giuseppe Botti. A purpose-built Neoclassical museum building was completed in 1895, making it the first building in Egypt specifically designed to display antiquities. After an extensive restoration and modernization project, the museum reopened to the public in 2023 .The Greco-Roman Museum offers a fascinating journey through Alexandria's multicultural past. Its world-class collection of sculptures, mosaics, coins, and historical artifacts provides a unique perspective on how Greek and Roman civilizations influenced Egypt while preserving many elements of ancient Egyptian culture.",
+    "images": ["https://images.openai.com/static-rsc-4/_aASZCC5Q7hiXY6UOz7M0PJHImB3UIzIusbDCQ4fhva1DIKn3KKhI5Jxi6K3qp8u8yNN06tDolbmLh4xEBHsSSNjaJzMkzMNFopqGUEE8KklknhC65skZC9K5ejQHwj8z1wjSefx1KbnvT03YTNZ5A2ob1kZy147njaNqwa_jHVOYjOjh_CyJ5ZKzqN3NB35?purpose=fullsize",
+  "https://images.openai.com/static-rsc-4/QKgay2Q7TK6zUWiOQ5w5dPpT03wfXELKEfJr4rL4qoiWi3Eay5KnC4aQ2iVaD8UU-KalKqvGN-cc_uNZdHm0W_zKnCAQEbY7eYPll72u9oQSPkqJoK6WnaPFsJ_MaYvWK8wZhPgSX_YViTr5VrqAsptHoiUWPIaZACBeZUSzQSp7v2sYp16B2bh0-rFN41qW?purpose=fullsize",
+"https://images.openai.com/static-rsc-4/W35OfospBe81dORK7KSzh9O7VkQt56wTXaNXeKeNmWiswD4-veHBJ1IOpzpQOXD6UR58gKSzt4c2d8mPuwdrJpCntPEkkIBR8j7EjRecS0zZ8DGLOMDPWCHLYezJwDmptqBgQQvEfkxJbCiSCjkPhqKOK0qlw-QSOVIpI-dlmmetINq2wbmsAHl29Ji9huRX?purpose=fullsize",
+"https://images.openai.com/static-rsc-4/StRibw77QEQHTinW1fq3Ab2jE_ODnwYoCXNKhjxxwA6SSgAFohKSEwiyvoM-4IsDVU8aTxfx86Ryuaa4EFmI_vCp2d56_mf5iI22cnFc2kOyoJ6U_3rYmQus_wrrEKaMUz3wCjGAJdM0gp2jFwDnWIa0BInaNoklUZ3w3VaWrFzInZbiMikRzx-kh8LJ7WYX?purpose=fullsize",
+"https://images.openai.com/static-rsc-4/0wVXU8Ub1m30GHfxr3YqU00m9PmSNLqDm-810Y5K_Xk5UZffsFyvK_kX_9ZoBmyz9Epsz-mNEm0udwn7Qo_H9vvWGXz8Ymh8Z33gURMrN8271zx6dLQ0A8-h9Fj3q47bg4UgSLCD2hpDKJgs1Wljd_J5SKoeZWqpkwe-dRf7oL6GrPqiZdbveYREiQWKHhOj?purpose=fullsize"],
+    "location": {
+      "latitude": 31.2001,
+      "longitude": 29.9187
+    }
+  },
+  {
+    "id": 10,
+    "name": "Sharm El Sheikh Museum",
+    "arabic_name": "متحف شرم الشيخ",
+    "city": "Sharm El Sheikh",
+    "established": 2020,
+    "description": "The Sharm El Sheikh Museum is the first museum of antiquities in South Sinai. Opened in 2020, it was established to combine Egypt's famous beach tourism with its rich cultural heritage. The museum presents the story of Egyptian civilization from prehistoric times to the modern era, making it one of the newest and most modern museums in the country.The museum project began in 2003, paused for several years, and resumed in 2018. It officially opened to visitors in October 2020 and has since become one of Sharm El Sheikh's top cultural attractions. The museum was created to enrich the city's tourism by offering visitors both historical and recreational experiences. The Sharm El Sheikh Museum offers a unique opportunity to explore Egypt's history while enjoying one of the country's most famous resort destinations. Its modern galleries, carefully selected artifacts, and engaging exhibitions make it an excellent destination for families, history enthusiasts, and tourists looking to experience Egypt beyond its beaches.",
+    "images": ["https://images.openai.com/static-rsc-4/rWPbd43yuf6GPqZz0DttYlXebkmNYQ-BtvHFBzACksrelDol2kifShNlY2cmKxSb5L0dD9Nlr8xA4Dtkl4A5tyFrpgYoNhNFh54Lmzosdn9iLvneGFv20BDsZY9xY3V5wOpaJ5rtWGRNfuU-UT8P2CZCd3ZWLbEmMbciHvwfQDWaPSkoT11Ys5Au9J72teE1?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/67QoLlVpHPmMst22FXiR-G2OoKYGdxJALgQc0DFoQZLB52_AWTwoL_fzvOKA9-tTf375UeCS3V7kYAdzxsILiaOMjWGd3hPGElz42qPB7iwpjjFkQmRbbKPWlLxPrj6D8VCmZ-LLRr9-44pDTTWnoCX-m8Kh_x2KfIHyUOr5FXv8Ce5VA8DZa_fVxfFGsMdG?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/b1_ZFu1J1UKJttuMX2K_qsmZnBNDjzoj5mzSeXBw-JtJj_jwY_a_5mTxDIMPwUa6eU2RWZqMz9XcHXgnpqivjIws3D6-KrOaY7Zz9JWgj_1uDhVx-xFS93vy05t_ItDxWcqLpOq3w6x6RYtzGxf7KiiqlGMH5hFDFMlsdIGyZeAn6gxZcSBX01AKiylDiWhC?purpose=fullsize",
+    "https://images.openai.com/static-rsc-4/asCGTnPnH_WNpOpgxScDHzAWs8ZYpjnyOpOq_lnZGlCsCF6feRvJaUM-DA18_KlgVtyF8LHncyh9sQXcvqqHTSazMUJPJLVlwpoj4ZAiKBicbD_V-S07RYhuFCa821zARJNqW-TVh89gMsOM-BQQ5bF0zCgqc2JuESedBdnmXqQGEL7ZTfDEkt06skHo9Egp?purpose=fullsize"],
+    "location": {
+      "latitude": 27.9158,
+      "longitude": 34.3299
+    }
+  }
+]

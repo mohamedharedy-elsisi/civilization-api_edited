@@ -1,0 +1,167 @@
+[
+    {
+        "id":  1,
+        "name":  "Karnak Temple",
+        "arabic_name":  "معبد الكرنك",
+        "location":  "Luxor",
+        "city":  "Luxor",
+        "built_by":  "Several Pharaohs",
+        "period":  "Middle Kingdom to Ptolemaic Period",
+        "description":  "The largest religious complex ever built in ancient Egypt.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Temple_de_Louxor_68.jpg/960px-Temple_de_Louxor_68.jpg"
+    },
+    {
+        "id":  2,
+        "name":  "Luxor Temple",
+        "arabic_name":  "معبد الأقصر",
+        "location":  "Luxor",
+        "city":  "Luxor",
+        "built_by":  "Amenhotep III and Ramesses II",
+        "period":  "New Kingdom",
+        "description":  "A large temple complex located on the east bank of the Nile.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_01.jpg/960px-Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_01.jpg"
+    },
+    {
+        "id":  3,
+        "name":  "Abu Simbel Temple",
+        "arabic_name":  "معبد أبو سمبل",
+        "location":  "Aswan",
+        "city":  "Aswan",
+        "built_by":  "Ramesses II",
+        "period":  "New Kingdom",
+        "description":  "Famous for its colossal statues of Ramesses II.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Ramsis%2C_Aswan_Governorate%2C_Egypt_-_panoramio.jpg/960px-Ramsis%2C_Aswan_Governorate%2C_Egypt_-_panoramio.jpg"
+    },
+    {
+        "id":  4,
+        "name":  "Temple of Hatshepsut",
+        "arabic_name":  "معبد حتشبسوت",
+        "location":  "Deir el-Bahari",
+        "city":  "Luxor",
+        "built_by":  "Hatshepsut",
+        "period":  "18th Dynasty",
+        "description":  "A mortuary temple dedicated to Queen Hatshepsut.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Templo_funerario_de_Hatshepsut%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_13.jpg/960px-Templo_funerario_de_Hatshepsut%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_13.jpg"
+    },
+    {
+        "id":  5,
+        "name":  "Philae Temple",
+        "arabic_name":  "معبد فيلة",
+        "location":  "Agilkia Island",
+        "city":  "Aswan",
+        "built_by":  "Ptolemaic Pharaohs",
+        "period":  "Ptolemaic Period",
+        "description":  "Dedicated to the goddess Isis.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Philae_Temple_R01.jpg/960px-Philae_Temple_R01.jpg"
+    },
+    {
+        "id":  6,
+        "name":  "Temple of Edfu",
+        "arabic_name":  "معبد إدفو",
+        "location":  "Edfu",
+        "city":  "Aswan",
+        "built_by":  "Ptolemaic Pharaohs",
+        "period":  "Ptolemaic Period",
+        "description":  "One of the best-preserved temples in Egypt.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Temple_Edfou_Egypte.jpg/960px-Temple_Edfou_Egypte.jpg"
+    },
+    {
+        "id":  7,
+        "name":  "Kom Ombo Temple",
+        "arabic_name":  "معبد كوم أمبو",
+        "location":  "Kom Ombo",
+        "city":  "Aswan",
+        "built_by":  "Ptolemaic Pharaohs",
+        "period":  "Ptolemaic Period",
+        "description":  "A unique double temple dedicated to Sobek and Horus.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Kom_Ombo_Portal_04.jpg/960px-Kom_Ombo_Portal_04.jpg"
+    },
+    {
+        "id":  8,
+        "name":  "Temple of Dendera",
+        "arabic_name":  "معبد دندرة",
+        "location":  "Dendera",
+        "city":  "Qena",
+        "built_by":  "Ptolemy XII",
+        "period":  "Ptolemaic Period",
+        "description":  "Dedicated to the goddess Hathor.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Dendera_7_977.PNG/960px-Dendera_7_977.PNG"
+    },
+    {
+        "id":  9,
+        "name":  "Temple of Seti I",
+        "arabic_name":  "معبد سيتي الأول",
+        "location":  "Abydos",
+        "city":  "Sohag",
+        "built_by":  "Seti I",
+        "period":  "19th Dynasty",
+        "description":  "One of the most important archaeological sites in Egypt.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/3/33/AbydosFacade.jpg"
+    },
+    {
+        "id":  10,
+        "name":  "Ramesseum",
+        "arabic_name":  "الرمسيوم",
+        "location":  "West Bank",
+        "city":  "Luxor",
+        "built_by":  "Ramesses II",
+        "period":  "19th Dynasty",
+        "description":  "The mortuary temple of Ramesses II.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/SFEC_AEH_-ThebesNecropolis-2010-RamsesII-021.jpg/960px-SFEC_AEH_-ThebesNecropolis-2010-RamsesII-021.jpg"
+    },
+    {
+        "id":  11,
+        "name":  "Medinet Habu",
+        "arabic_name":  "معبد مدينة هابو",
+        "location":  "West Bank",
+        "city":  "Luxor",
+        "built_by":  "Ramesses III",
+        "period":  "20th Dynasty",
+        "description":  "One of the best-preserved temples of the New Kingdom.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Templo_funerario_de_Rams%C3%A9s_III%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_22.jpg/960px-Templo_funerario_de_Rams%C3%A9s_III%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_22.jpg"
+    },
+    {
+        "id":  12,
+        "name":  "Temple of Khnum",
+        "arabic_name":  "معبد خنوم",
+        "location":  "Esna",
+        "city":  "Luxor",
+        "built_by":  "Ptolemaic and Roman rulers",
+        "period":  "Greco-Roman Period",
+        "description":  "Dedicated to the ram-headed god Khnum.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Temple_of_Khnum_in_Esna_%2852649632334%29.jpg/960px-Temple_of_Khnum_in_Esna_%2852649632334%29.jpg"
+    },
+    {
+        "id":  13,
+        "name":  "Temple of Kalabsha",
+        "arabic_name":  "معبد كلابشة",
+        "location":  "Aswan",
+        "city":  "Aswan",
+        "built_by":  "Roman Emperor Augustus",
+        "period":  "Roman Period",
+        "description":  "One of the largest Nubian temples.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_Temple_of_Kalabsha_by_Dennis_G._Jarvis.jpg/960px-The_Temple_of_Kalabsha_by_Dennis_G._Jarvis.jpg"
+    },
+    {
+        "id":  14,
+        "name":  "Temple of Amada",
+        "arabic_name":  "معبد عمدا",
+        "location":  "Nubia",
+        "city":  "Aswan",
+        "built_by":  "Thutmose III",
+        "period":  "18th Dynasty",
+        "description":  "The oldest surviving temple in Nubia.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Amada_Front.JPG/960px-Amada_Front.JPG"
+    },
+    {
+        "id":  15,
+        "name":  "Temple of Derr",
+        "arabic_name":  "معبد الدر",
+        "location":  "Nubia",
+        "city":  "Aswan",
+        "built_by":  "Ramesses II",
+        "period":  "19th Dynasty",
+        "description":  "Rock-cut temple dedicated to the sun god Ra.",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flickr_-_archer10_%28Dennis%29_-_Egypt-9B-045_-_Temple_of_Derr_%28Published_in_Wikipedia%29.jpg/960px-Flickr_-_archer10_%28Dennis%29_-_Egypt-9B-045_-_Temple_of_Derr_%28Published_in_Wikipedia%29.jpg"
+    }
+]

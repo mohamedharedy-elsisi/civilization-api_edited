@@ -1,0 +1,12 @@
+fastapi>=0.115,<1
+gradio==6.26.0
+huggingface_hub>=0.34,<2
+numpy==1.26.4
+Pillow>=10,<13
+python-multipart>=0.0.9,<1
+requests>=2.32,<3
+spaces>=0.41,<1
+torch==2.8.0
+torchvision==0.23.0
+ultralytics==8.4.75
+uvicorn[standard]>=0.30,<1
